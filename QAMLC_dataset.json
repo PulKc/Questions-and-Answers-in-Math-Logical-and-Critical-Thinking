@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "Solve for \\( x \\) in \\( 2x + 13 = 3 \\).",
+    "type": "open-ended",
+    "answer": "\\( x = 5 \\)",
+    "solution": [
+      "Given that, the equation is  \\( 2x + 3 = 13 \\).",
+      "We need to solve it for  \\( x \\.",
+      "Subtract 3 from both sides: \\( 2x + 3 - 3 = 13 - 3 \\).",
+      "We get: \\( 2x = 10 \\).",
+      "Divide by coefficient of x i.e; 2: \\( x = 5 \\)."
+    ],
+    "difficulty": "Easy",
+    "skills_required": ["Algebra", "Equation Solving", "Arithmetic"]
+  },
+]
