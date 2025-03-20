@@ -28,12 +28,8 @@ dataset_info:
     dtype: string
   - name: skills_required
     sequence: string
-  splits:
-  - name: train
-    num_bytes: [size_in_bytes]
     num_examples: 101
-  download_size: 5.19 kB
-  dataset_size: ~ 5 kB
+    download_size: 82.9 kB
 ---
 
 # Dataset Card for QAMLC
