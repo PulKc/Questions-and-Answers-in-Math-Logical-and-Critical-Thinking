@@ -69,9 +69,9 @@ However, most questions and their step-by-step solutions are unique and unlikely
 
 | Platform                  | Link (to be updated upon availability) |
 |---------------------------|----------------------------------------|
-| **GitHub**                | [GitHub Repository](#)                 |
-| **Kaggle**                | [Kaggle Dataset](#)                    |
-| **Hugging Face**          | [Hugging Face Dataset](#)              |
+| **GitHub**                | [GitHub Repository](https://github.com/PulKc/Questions-and-Answers-in-Math-Logical-and-Critical-Thinking/)                 |
+| **Kaggle**                | [Kaggle Dataset](https://www.kaggle.com/datasets/pulkitsahu89/qamlc-dataset)                    |
+| **Hugging Face**          | [Hugging Face Dataset](https://huggingface.co/datasets/PulkitSahu/QAMLC)              |
 | **VenusMoon Official Website** | [VenusMoon Website](#)           |
 
 ## License
