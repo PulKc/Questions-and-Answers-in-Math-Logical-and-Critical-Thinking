@@ -1,17 +1,2322 @@
 [
-  {
-    "id": 1,
-    "question": "Solve for \\( x \\) in \\( 2x + 13 = 3 \\).",
-    "type": "open-ended",
-    "answer": "\\( x = 5 \\)",
-    "solution": [
-      "Given that, the equation is  \\( 2x + 3 = 13 \\).",
-      "We need to solve it for  \\( x \\.",
-      "Subtract 3 from both sides: \\( 2x + 3 - 3 = 13 - 3 \\).",
-      "We get: \\( 2x = 10 \\).",
-      "Divide by coefficient of x i.e; 2: \\( x = 5 \\)."
-    ],
-    "difficulty": "Easy",
-    "skills_required": ["Algebra", "Equation Solving", "Arithmetic"]
-  },
-]
+    {
+      "id": 1,
+      "question": "Identify the next number in this sequence: 2, 4, 6, 8, 10",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Given that:",
+        "2, 4, 6, 8, 10",
+        "We need to find out the next number in this sequence:",
+        "2, 4, 6, 8, 10",
+        "Let’s find out some patterns between 1 and 3.",
+        "Adding 2 to 2 gives 4",
+        "2 + 2 = 4",
+        "Now let's add 2 to 4",
+        "2 + 4 = 6",
+        "Similarly,",
+        "2 + 6 = 8",
+        "2 + 8 = 10",
+        "The number in the given sequence is following a pattern: they are increasing by 2.",
+        "So, add 2 to the last item in the sequence to get the next unknown number.",
+        "2 + 10 = 12",
+        "Thus, the next number in this sequence: 2, 4, 6, 8, 10 is 12."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ram is playing a game to fill in some missing numbers in a given sequence. Help him fill up ... this one: 2, 4, ..., 8, 10, ..., 14, 16, 18",
+      "type": "open-ended",
+      "answer": "6 and 12",
+      "solution": [
+        "Ram needs to fill up the given sequence:",
+        "2, 4, ..., 8, 10, ..., 14, 16, 18",
+        "We will try to find some meaningful pattern in it. Let’s subtract them one by one. We will leave the blanks.",
+        "4 – 2 = 2",
+        "10 – 8 = 2",
+        "16 – 14 = 2",
+        "18 – 16 = 2",
+        "We can see that the difference between the numbers is 2 continuously.",
+        "We need to find a number before 8 in this sequence. Let’s subtract 2 from it.",
+        "8 – 2 = 6",
+        "Similarly, there is a blank before 14. Let’s subtract 2 from it as well.",
+        "14 – 2 = 12",
+        "Thus, the missing numbers in the given sequence which Ram is playing are: 6 and 12.",
+        "The filled-up sequence is:",
+        "2, 4, 6, 8, 10, 12, 14, 16, 18"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Can you recognise a pattern in this sequence: 1, 2, 3, 5, 8, 13, 21, 34. Name this pattern and find the next sequence number.",
+      "type": "open-ended",
+      "answer": "Virahānka numbers or Fibonacci sequence. 55",
+      "solution": [
+        "We are asked to recognise and name this sequence: 1, 2, 3, 5, 8, 13, 21, 34. Also, we need to find the next sequence number.",
+        "Let’s try adding 1 to each item to get the next one.",
+        "1",
+        "2 + 1 = 3",
+        "3 + 1 = 4",
+        "5 + 1 = 6",
+        "...",
+        "They are not following this pattern.",
+        "Let’s add them one by one in this sequence: 1, 2, 3, 5, 8, 13, 21, 34.",
+        "1 + 2 = 3",
+        "2 + 3 = 5",
+        "3 + 5 = 8",
+        "5 + 8 = 13",
+        "13 + 21 = 34",
+        "Yes, they are following this pattern. This pattern is called Virahānka numbers or the Fibonacci sequence.",
+        "So, the next number would be:",
+        "21 + 34 = 55",
+        "Therefore, the next Virahānka number or Fibonacci number is 55."
+      ],
+      "difficulty": "Medium",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the upcoming number in this sequence: 1, 8, 27, 64, 125, ...",
+      "type": "open-ended",
+      "answer": "216",
+      "solution": [
+        "We have,",
+        "1, 8, 27, 64, 125, ...",
+        "We are asked to find the upcoming number ...",
+        "Let’s search for any meaningful pattern in this sequence.",
+        "If we try to subtract the adjacent numbers, we get,",
+        "8 – 1 = 7",
+        "27 – 8 = 19",
+        "64 – 27 = 37",
+        "125 – 64 = 61",
+        "They do not follow any pattern.",
+        "Let’s try another way. We can see that the numbers are increasing rapidly. Simple addition or subtraction won’t make up this sequence. Numbers grow exponentially when they are squared or cubed. Let’s try cubing on 1, 2, 3...",
+        "13 = 1",
+        "23 = 2 * 2 * 2 = 8",
+        "33 = 3 * 3 * 3 = 27",
+        "43 = 4 * 4 * 4 = 64",
+        "53 = 5 * 5 * 5 = 125",
+        "Yes, they are following a pattern: The given sequence is a cube series. So, the next number is a cube of 6.",
+        "63 = 6 * 6 * 6 = 216",
+        "The upcoming number in the sequence: 1, 8, 27, 64, 125 is 216."
+      ],
+      "difficulty": "Medium",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the average of these numbers 56 78 45 34 56 89 78 34 67 89?",
+      "type": "open-ended",
+      "answer": "62.6",
+      "solution": [
+        "Let's solve it step-by-step.",
+        "We have the following numbers:",
+        "56, 78, 45, 34, 56, 89, 78, 34, 67, 89",
+        "Let's sum them up. The sum is 626.",
+        "Now, divide the sum (626) by the count of items that's 10.",
+        "The mean or average is:",
+        "626 ÷ 10 = 62.6"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "The height of students in a class of 11 is given below. What is the average height of a student in the class? 160 cm, 158 cm, 162 cm 157 cm 150 cm 148 cm 154 cm 156.5 cm 157.4 cm 157.8 cm 159.5 cm",
+      "type": "open-ended",
+      "answer": "156.38 cm",
+      "solution": [
+        "We need to find the average height of a student in the class.",
+        "The formula is = sum of all items/number of items",
+        "The heights in cm are:",
+        "160, 158, 162, 157, 150, 148, 154, 156.5, 157.4, 157.8, 159.5",
+        "Let's sum them up. The sum is 1720.2 cm.",
+        "Now, divide the sum (1720.2) by the count of items that's 11.",
+        "The mean or average is:",
+        "1720.2 cm ÷ 11 = 156.38 cm",
+        "So, the average height of a student in the class is 156.38 cm"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Add 1 4 5 7 9 3 5 7 8 9",
+      "type": "open-ended",
+      "answer": "58",
+      "solution": [
+        "The given numbers are:",
+        "1 4 5 7 9 3 5 7 8 9",
+        "We need to add them.",
+        "= 1 + 4 + 5 + 7 + 9 + 3 + 5 + 7 + 8 + 9",
+        "The sum is 58"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Divide 25 by 4",
+      "type": "open-ended",
+      "answer": "6.25",
+      "solution": [
+        "We want to divide 25 by 4",
+        "= 25 ÷ 4",
+        "= 6.25",
+        "The division of given numbers is 6.25"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is 6!?",
+      "type": "open-ended",
+      "answer": "720",
+      "solution": [
+        "Given:",
+        "6",
+        "We wish to find the factorial of it.",
+        "6! = 6 * 5 * 4 * 3 * 2 * 1",
+        "6! = 720",
+        "The factorial of 6 i.e.; 6! = 720."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the area of a circle with a radius of 3.5 cm?",
+      "type": "open-ended",
+      "answer": "38.47 cm^2",
+      "solution": [
+        "The area of a circle with a radius of 3.5 cm, r = 3.5 cm is:",
+        "Formula of area = πr^2",
+        "Substituting in the values,",
+        "The value of π (pi) is 3.14",
+        "Area = 3.14 * (r)^2 cm^2",
+        "Area = 3.14 * 3.5 * 3.5 cm^2",
+        "Area = 38.47 cm^2",
+        "Therefore, the area of the given circle is 38.47 cm^2."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Find the area of a circle. Given that its radius is 7 cm.",
+      "type": "open-ended",
+      "answer": "153.86 cm^2",
+      "solution": [
+        "The area of a circle with radius, r = 7 cm, is calculated as:",
+        "Area = πr^2",
+        "The value of π (pi) is 3.14",
+        "Area = 3.14 * (r)^2 cm^2",
+        "Area = 3.14 * 7 * 7 cm^2",
+        "Area = 153.86 cm^2",
+        "Therefore, the area of the given circle is 153.86 cm^2."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What is the shape of your face?",
+      "type": "open-ended",
+      "answer": "Round",
+      "solution": [
+        "The shape of my face is round or circular."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Look around you and name three things with their shapes.",
+      "type": "open-ended",
+      "answer": "Clock: round, Pencil box: cuboid, Pen: cylindrical",
+      "solution": [
+        "I can tell you three things from my room with their shapes.",
+        "Clock: round",
+        "Pencil box: cuboid",
+        "Pen: cylindrical"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Group similar shape objects. For this task, we are providing these emojis: 😃😄🔋🌝🏞️🍪🏀🛢️🌆💿🧿🎾🎲🎇📀🪫",
+      "type": "open-ended",
+      "answer": "Round shape: 😃😄🌝🍪🏀💿🧿🎾📀 Squared shape: 🏞️🌆🎇 Cylindrical shape: 🔋🛢️🪫 Cuboidal shape: 🎲",
+      "solution": [
+        "The given objects or emojis are:",
+        "😃😄🔋🌝🏞️🍪🏀🛢️🌆💿🧿🎾🎲🎇📀🪫",
+        "Let’s solve this problem step-by-step. We’ll arrange them according to their shape and how they are looking.",
+        "Some of the emojis appear round or circular like a chapatti. We’ll sort them out first.",
+        "Circular or round shape: 😃😄🌝🍪🏀💿🧿🎾📀",
+        "Some are with edges. They’re square.",
+        "Squared shape: 🏞️🌆🎇",
+        "Some are cylindrical like a bottle.",
+        "Cylindrical shape: 🔋🛢️🪫",
+        "One (dice) appears to be in cuboidal shape (8 faces).",
+        "Cuboidal shape: 🎲"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Count the number of round-shaped objects: 😃😄🌝🌆💿🧿🎾🍪🏀🛢️🎇📀🪫",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Given that:",
+        "😃😄🌝🌆💿🧿🎾🍪🏀🛢️🎇📀🪫",
+        "Let’s sort out emojis that look round in shape like a pizza!",
+        "😃😄🌝💿🧿🎾🍪🏀📀",
+        "Now, count them.",
+        "They’re 9 in number.",
+        "The number of round-shaped objects is 9."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Count the number of A’s in this sequence: AAAAAAAAAAAAAA.",
+      "type": "open-ended",
+      "answer": "14",
+      "solution": [
+        "The sequence is:",
+        "AAAAAAAAAAAAAA",
+        "We need to count the number of A’s. Let’s count them one by one.",
+        "14",
+        "Let’s verify by counting them from right to left.",
+        "14",
+        "Thus, the number of A’s in the given sequence is 14."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "How many A’s are there in this sequence: AAAAAAAAAAA.",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "The sequence is:",
+        "AAAAAAAAAAA",
+        "We need to know the number of A’s. Let’s count them one by one.",
+        "11",
+        "Let’s verify by counting them from right to left.",
+        "11",
+        "Thus, the number of A’s in the given sequence is 11."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How many O’s are there in this sequence: OOOOOOAOOOOAOOOA.",
+      "type": "open-ended",
+      "answer": "13",
+      "solution": [
+        "Given that the sequence is:",
+        "OOOOOOAOOOOAOOOA",
+        "We need to count the number of O’s. But there are A’s as well. We’ll leave them. Let’s count O’s one by one.",
+        "13",
+        "Let’s verify by counting them from right to left.",
+        "13",
+        "Thus, the number of O’s in the given sequence is 13."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How many O’s are there in this sequence: OOOOOOOOOOO.",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Given that the sequence is:",
+        "OOOOOOOOOOO",
+        "We need to count the number of O’s. Let’s count O’s one by one.",
+        "11",
+        "Let’s verify by counting them from right to left.",
+        "11",
+        "Thus, the number of O’s in the given sequence is 11."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Mark the shape similar to 😀: 🌈🎲🧩😃",
+      "type": "open-ended",
+      "answer": "😃",
+      "solution": [
+        "The given list is:",
+        "🌈🎲🧩😃",
+        "We need to mark the shape which is similar to 😀, a round one. Let’s check one by one.",
+        "🌈 This is not looking perfectly round.",
+        "🎲 This is also not looking round.",
+        "🧩 This is a different shape.",
+        "😃 This is looking like a round shape.",
+        "Therefore, out of the given list, 😃 is similar to 😀."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Identify the shape similar to 🟩: 🦜🎲🟦😃",
+      "type": "open-ended",
+      "answer": "🟦",
+      "solution": [
+        "The given list is:",
+        "🦜🎲🟦😃",
+        "We need to identify a shape which is similar to 🟩, a square one. Let’s check one by one.",
+        "🦜🎲🟦😃",
+        "🦜 This is not looking perfectly squared.",
+        "🎲 This is also not looking square.",
+        "🟦 This is a squared shape.",
+        "😃 This is looking like a round shape.",
+        "Therefore, out of the given list, 🟦 is similar to 🟩."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Identify a square, circle, or cube from this list of items or emojis: 🎲🟦😃",
+      "type": "open-ended",
+      "answer": "🎲: cube, 🟦: square, 😃: circle",
+      "solution": [
+        "The given list is:",
+        "🎲🟦😃",
+        "Let’s check them one by one for their shape.",
+        "🎲 This is some dice, and it has 6 faces. It is a cube.",
+        "🟦 This is a squared shape with 4 edges.",
+        "😃 This is looking like a circle with no edges.",
+        "Thus,",
+        "🎲: cube, 🟦: square, 😃: circle"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Find a square from this list of items or emojis: 🎲🟦😃",
+      "type": "open-ended",
+      "answer": "🟦 is a square.",
+      "solution": [
+        "The given list is:",
+        "🎲🟦😃",
+        "Let’s check them one by one for their shape.",
+        "🎲 This is some dice, and it has 6 faces. It is a cube.",
+        "🟦 This is a squared shape with 4 edges.",
+        "😃 This is looking like a circle with no edges.",
+        "Thus,",
+        "🟦 is a square."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Find out a circle from this list of items or emojis: 🎲🟦😃",
+      "type": "open-ended",
+      "answer": "😃 is a circle.",
+      "solution": [
+        "The given list is:",
+        "🎲🟦😃",
+        "Let’s check them one by one for their shape.",
+        "🎲 This is some dice, and it has 6 faces. It is a cube.",
+        "🟦 This is a squared shape with 4 edges.",
+        "😃 This is looking like a circle with no edges.",
+        "Thus,",
+        "😃 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Find a cube from this list of items or emojis: 🎲🟦😃",
+      "type": "open-ended",
+      "answer": "🎲 is a cube.",
+      "solution": [
+        "The given list is:",
+        "🎲🟦😃",
+        "Let’s check them one by one for their shape.",
+        "🎲 This is some dice, and it has 6 faces. It is a cube.",
+        "🟦 This is a squared shape with 4 edges.",
+        "😃 This is looking like a circle with no edges.",
+        "Thus,",
+        "🎲 is a cube."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Name the item that can roll:  ⚽️🪂",
+      "type": "open-ended",
+      "answer": "⚽️ can roll.",
+      "solution": [
+        "The given list is:",
+        "⚽️🪂",
+        "⚽️ This is a football, and it can roll.",
+        "🪂 This is a parachute, and it can’t roll but rather fly.",
+        "⚽️ can roll."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Count the number of similar items: 🍎⌚️🌸🍎⌚️🌸🍎🍏⌚🍏🍎️🍏",
+      "type": "open-ended",
+      "answer": "4🍎s, 3🍏s, 3⌚️s, 2🌸s.",
+      "solution": [
+        "First, we’ll sort the similar items.",
+        "Red apples: 🍎🍎🍎🍎",
+        "Green apples: 🍏🍏🍏",
+        "Watches: ⌚️⌚️⌚️",
+        "Cherry blossom: 🌸🌸",
+        "Let’s count them and report.",
+        "Red apples (🍎): 4",
+        "Green apples (🍏): 3",
+        "Watches (⌚️): 3",
+        "Cherry blossom (🌸): 2",
+        "Thus, there are 4🍎s, 3🍏s, 3⌚️s, 2🌸s."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Count the number of similar items: 💻⌨️🍏💻️🖱️🖱️🍏🖱️⌨️🍏💻🖱️",
+      "type": "open-ended",
+      "answer": "3💻s, 3🍏s, 2⌨️s, 4🖱️s",
+      "solution": [
+        "First, we’ll sort the similar items.",
+        "Laptops: 💻💻💻",
+        "Green apples: 🍏🍏🍏",
+        "Keyboard: ⌨️⌨️",
+        "Mouse: 🖱️🖱️🖱️🖱️",
+        "Let’s count them and report.",
+        "Laptops (💻): 3",
+        "Green apples (🍏): 3",
+        "Keyboard (⌨️): 2",
+        "Mouse (🖱️): 4",
+        "Thus, there are: 3💻s, 3🍏s, 2⌨️s, 4🖱️s"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Observe this list of items and fill in the blanks. 🍎🌸🍎🍌🍌 There are ____ bananas in the list. There are ____ red apples in the list. There is ___ cherry blossom in the list.",
+      "type": "fill-in-the-blank",
+      "answer": "There are 2 bananas in the list. There are 2 red apples in the list. There is 1 cherry blossom in the list.",
+      "solution": [
+        "The given list is: 🍎🌸🍎🍌🍌",
+        "We’ll sort the similar items and count them.",
+        "Red apples 🍎🍎",
+        "They are 2 in number.",
+        "Bananas 🍌🍌",
+        "They are 2 in number.",
+        "Cherry blossom 🌸",
+        "It’s 1 in number.",
+        "Now, we can fill up the blanks.",
+        "There are 2 bananas in the list.",
+        "There are 2 red apples in the list.",
+        "There is 1 cherry blossom in the list."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Tell a circle in this list: 🧿🟧🧊🪫",
+      "type": "open-ended",
+      "answer": "🧿 is a circle.",
+      "solution": [
+        "The given items are:",
+        "🧿🟧🧊🪫",
+        "We're looking for a circle.",
+        "Let’s check them one by one for their shape.",
+        "🧿 This is a circular or round shape.",
+        "🟧 This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "🪫 This is looking like a cylinder.",
+        "Thus, 🧿 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Find out a cube from this list: 🎱️🎲🪫",
+      "type": "open-ended",
+      "answer": "️ 🎲 is a cube.",
+      "solution": [
+        "The items are:",
+        "🎱️🎲🪫",
+        "We need to find a cube.",
+        "Let’s check them one by one for their shape.",
+        "🎱 This is a circular or round shape.",
+        "🎲 This is looking like a cube.",
+        "🪫 This is looking like a cylinder.",
+        "Thus, 🎲 is a cube."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Find a square from these items: 🟣🟫🎲🪫",
+      "type": "open-ended",
+      "answer": "🟫 is a square.",
+      "solution": [
+        "The items are:",
+        "🟣🟫🎲🪫",
+        "We're looking for a square.",
+        "Let’s check them one by one for their shape.",
+        "🟣 This is a circular or round shape.",
+        "🟫 This is a squared shape.",
+        "🎲 This is looking like a cube.",
+        "🪫 This is looking like a cylinder.",
+        "Thus, 🟫 is a square."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Find out a square in this list: 😆🟩🧊🛢",
+      "type": "open-ended",
+      "answer": "🟩 is a square.",
+      "solution": [
+        "Given that:",
+        "😆🟩🧊🛢",
+        "We need to identify a square.",
+        "Let’s check them one by one for their shape.",
+        "😆 This is a circular or round shape.",
+        "🟩 This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🟩 is a square."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Name a circle from this list: 🟢🟦🧊🛢",
+      "type": "open-ended",
+      "answer": "🟢 is a circle.",
+      "solution": [
+        "The sequence is:",
+        "🟢🟦🧊🛢",
+        "We need to identify a circle.",
+        "Let’s check them one by one for their shape.",
+        "🟢 This is a circular or round shape.",
+        "🟦 This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🟢 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Find out a square from this list: 😆🟧🧊🛢",
+      "type": "open-ended",
+      "answer": "🟧 is a square.",
+      "solution": [
+        "The given sequence is:",
+        "😆🟧🧊🛢",
+        "We need to identify a square.",
+        "Let’s check them one by one for their shape.",
+        "😆 This is a circular or round shape.",
+        "🟧 This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🟧 is a square."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Mark a cylinder from this list: 🔴🎲🛢",
+      "type": "open-ended",
+      "answer": "🛢 is a cylinder.",
+      "solution": [
+        "The list is:",
+        "🔴🎲🛢",
+        "We need to identify a cylinder.",
+        "Let’s check them one by one for their shape.",
+        "🔴 This is a circular or round shape.",
+        "🎲 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🛢 is a cylinder."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Mark a circle from this sequence: 😕⬜🧊🪫",
+      "type": "open-ended",
+      "answer": "😕 is a circle.",
+      "solution": [
+        "The sequence is:",
+        "😕⬜🧊🪫",
+        "We need to find a circle.",
+        "Let’s check them one by one for their shape.",
+        "😕 This is a circular or round shape.",
+        "⬜ This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "🪫 This is looking like a cylinder.",
+        "Thus, 😕 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Name a cube in this list: 😃🟪🧊️",
+      "type": "open-ended",
+      "answer": "🧊 is a cube.",
+      "solution": [
+        "The items are:",
+        "😃🟪🧊️",
+        "We need to identify a cube.",
+        "Let’s check them one by one for their shape.",
+        "😃 This is a circular or round shape.",
+        "🟪 This is a squared shape.",
+        "🧊 This is looking like a cube.",
+        "Thus, 🧊 is a cube."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "23 - 45 =?",
+      "type": "open-ended",
+      "answer": "-22",
+      "solution": [
+        "Given:",
+        "23 – 45",
+        "We wish to subtract them.",
+        "= 23 – 45 = -22"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Mark a circle in this list: 🏀️🎲🪫",
+      "type": "open-ended",
+      "answer": "️ 🏀 is a circle",
+      "solution": [
+        "Given that:",
+        "🏀️🎲🪫",
+        "We're looking for a circle.",
+        "Let’s check them one by one for their shape.",
+        "🏀 This is a circular or round shape.",
+        "🎲 This is looking like a cube.",
+        "🪫 This is looking like a cylinder.",
+        "Thus, 🏀 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Add 1 1 1 2 3 4 1 -2 103 29384 -293 2-393 -2983",
+      "type": "open-ended",
+      "answer": "25831",
+      "solution": [
+        "We know the numbers:",
+        "1 1 1 2 3 4 1 -2 103 29384 -293 2 -393 –2983",
+        "We want to add them. Let’s add them.",
+        "= 1 + 1 + 1 + 2 + 3 + 4 + 1 + (-2) + 103 + 29384 + (-293) + 2 + (-393) + (-2983)",
+        "= 25831",
+        "The sum is 25831"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Mark a circle in this list: 🟡⬛🎲🛢",
+      "type": "open-ended",
+      "answer": "🟡 is a circle.",
+      "solution": [
+        "The items are:",
+        "🟡⬛🎲🛢",
+        "We need to identify a circle.",
+        "Let’s check them one by one for their shape.",
+        "🟡 This is a circular or round shape.",
+        "⬛ This is a squared shape.",
+        "🎲 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🟡 is a circle."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Mark a square from these items: 😉🟪🎲🛢",
+      "type": "open-ended",
+      "answer": "🟪 is a square.",
+      "solution": [
+        "The items are:",
+        "😉🟪🎲🛢",
+        "We're looking for a square.",
+        "Let’s check them one by one for their shape.",
+        "😉 This is a circular or round shape.",
+        "🟪 This is a squared shape.",
+        "🎲 This is looking like a cube.",
+        "🛢 This is looking like a cylinder.",
+        "Thus, 🟪 is a square."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Group them in tens and ones. 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 1",
+      "solution": [
+        "Let us count them from the left. On reaching a count of 10, or 20... we jot them as tens.",
+        "Ten: 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "The remaining items are ones.",
+        "🟢",
+        "Thus, there are 1 tens and 1 ones."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Distribute them in tens and ones. List: 🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱",
+      "type": "open-ended",
+      "answer": "Tens: 2, Ones: 7",
+      "solution": [
+        "The given items are:",
+        "🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱",
+        "We need to sort them into tens and ones.",
+        "Let us count in groups of ten.",
+        "🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱",
+        "🎱🎱🎱🎱🎱🎱🎱🎱🎱🎱",
+        "Thus, there are 2 tens.",
+        "The remaining items are ones.",
+        "🎱🎱🎱🎱🎱🎱🎱",
+        "Thus, there are 7 ones.",
+        "Tens of 🎱: 2, Ones of 🎱: 7"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Can you group them in tens and ones? Sequence: 🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
+      "type": "open-ended",
+      "answer": "Tens: 2, Ones: 2",
+      "solution": [
+        "The list is:",
+        "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
+        "We're looking to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
+        "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
+        "Thus, there are 2 tens (2 groups of tens).",
+        "The remaining items are ones.",
+        "🥹🥹",
+        "Thus, there are 2 ones.",
+        "Tens of 🥹: 2, Ones of 🥹: 2"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Can you tell the numbers of tens and ones? Sequence items:  🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+      "type": "open-ended",
+      "answer": "Tens: 8, Ones: 5.",
+      "solution": [
+        "The given sequence is:",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "We need to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
+        "Thus, there are 8 tens (8 groups of tens).",
+        "The remaining items are ones.",
+        "🏀🏀🏀🏀🏀",
+        "Thus, there are 5 ones.",
+        "Tens of 🏀: 8, Ones of 🏀: 5"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Distribute them in tens and ones. Sequence items:  🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+      "type": "open-ended",
+      "answer": "Tens: 9, Ones: 7",
+      "solution": [
+        "The list is:",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "We need to sort them into tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣",
+        "Thus, there are 9 tens (9 groups of tens).",
+        "The remaining items are ones.",
+        "🟣🟣🟣🟣🟣🟣🟣",
+        "Thus, there are 7 ones.",
+        "Tens of 🟣: 9, Ones of 🟣: 7"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Write down them in tens and ones. List: ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 2",
+      "solution": [
+        "The given sequence is:",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "We need to group them in tens and ones.",
+        "Let us count in groups of ten.",
+        "We keep doing this until there are no groups of tens.",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "Thus, there are 4 tens (4 groups of tens).",
+        "The remaining items are ones.",
+        "⚽⚽",
+        "Thus, there are 2 ones.",
+        "Tens of ⚽: 4, Ones of ⚽: 2"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Can you tell the numbers of tens and ones? Sequence items:  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+      "type": "open-ended",
+      "answer": "Tens: 6, Ones: 7.",
+      "solution": [
+        "Given that:",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "We need to group them in tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
+        "Thus, there are 6 tens (6 groups of tens).",
+        "The remaining items are ones.",
+        "🟢🟢🟢🟢🟢🟢🟢",
+        "Thus, there are 7 ones.",
+        "Tens of 🟢: 6, Ones of 🟢: 7"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Distribute them in tens and ones. Sequence: ⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+      "type": "open-ended",
+      "answer": "Tens: 9, Ones: 1",
+      "solution": [
+        "The items are:",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "We need to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
+        "Thus, there are 9 tens (9 groups of tens).",
+        "The remaining items are ones.",
+        "⚾",
+        "Thus, there are 1 ones.",
+        "Tens of ⚾: 9, Ones of ⚾: 1"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Can you group them in tens and ones? List items: 🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 3",
+      "solution": [
+        "The items are:",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+        "We need to sort them into tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🥎",
+        "Thus, there are 4 tens (4 groups of tens).",
+        "The remaining items are ones.",
+        "🥎🥎🥎",
+        "Thus, there are 3 ones.",
+        "Tens of 🥎: 4, Ones of 🥎: 3"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Distribute them in tens and ones. Items: 🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 2",
+      "solution": [
+        "The given sequence is:",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+        "We're looking to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
+        "Thus, there are 4 tens.",
+        "4 groups of tens = 4 * 10",
+        "The remaining items are ones.",
+        "🏐🏐",
+        "Thus, there are 2 ones.",
+        "Tens of 🏐: 4, Ones of 🏐: 2",
+        "40 + 2 = 42"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Can you group them in tens and ones? Sequence: 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+      "type": "open-ended",
+      "answer": "Tens: 2, Ones: 5",
+      "solution": [
+        "Given that:",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "We're looking to sort them into tens and ones.",
+        "Let us count in groups of ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "Thus, there are 2 tens.",
+        "2 groups of tens = 2 * 10",
+        "The remaining items are ones.",
+        "🧿🧿🧿🧿🧿",
+        "Thus, there are 5 ones.",
+        "Tens of 🧿: 2, Ones of 🧿: 5",
+        "20 + 5 = 25"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Distribute them in tens and ones. Sequence: 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 6",
+      "solution": [
+        "The given sequence is:",
+        "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
+        "We're looking to sort them into tens and ones.",
+        "Let us count in groups of ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
+        "Thus, there are 1 tens.",
+        "1 groups of tens = 1 * 10",
+        "The remaining items are ones.",
+        "🍪🍪🍪🍪🍪🍪",
+        "Thus, there are 6 ones.",
+        "Tens of 🍪: 1, Ones of 🍪: 6",
+        "10 + 6 = 16"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Can you tell the numbers of tens and ones? Sequence items:  🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+      "type": "open-ended",
+      "answer": "Tens: 3, Ones: 4",
+      "solution": [
+        "The given items are:",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "We need to group them in tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "Thus, there are 3 tens.",
+        "3 groups of tens = 3 * 10",
+        "The remaining items are ones.",
+        "🔴🔴🔴🔴",
+        "Thus, there are 4 ones.",
+        "Tens of 🔴: 3, Ones of 🔴: 4",
+        "30 + 4 = 34"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Distribute them in tens and ones. List items: 🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+      "type": "open-ended",
+      "answer": "Tens: 3, Ones: 5",
+      "solution": [
+        "The given items are:",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "We're looking to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "Thus, there are 3 tens.",
+        "3 groups of tens = 3 * 10",
+        "The remaining items are ones.",
+        "🎾🎾🎾🎾🎾",
+        "Thus, there are 5 ones.",
+        "Tens of 🎾: 3, Ones of 🎾: 5",
+        "30 + 5 = 35"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Can you tell the numbers of tens and ones? Items: 🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 9",
+      "solution": [
+        "The list is:",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "We need to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "Thus, there are 1 tens.",
+        "1 groups of tens = 1 * 10",
+        "The remaining items are ones.",
+        "🧿🧿🧿🧿🧿🧿🧿🧿🧿",
+        "Thus, there are 9 ones.",
+        "Tens of 🧿: 1, Ones of 🧿: 9",
+        "10 + 9 = 19"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Write down them in tens and ones. List: 🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+      "type": "open-ended",
+      "answer": "Tens: 3, Ones: 2",
+      "solution": [
+        "The sequence is:",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "We're looking to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
+        "Thus, there are 3 tens.",
+        "3 groups of tens = 3 * 10",
+        "The remaining items are ones.",
+        "🎾🎾",
+        "Thus, there are 2 ones.",
+        "Tens of 🎾: 3, Ones of 🎾: 2",
+        "30 + 2 = 32"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Distribute them in tens and ones. Sequence items:  ⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 3",
+      "solution": [
+        "The list is:",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "We need to sort them into tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+        "Thus, there are 4 tens.",
+        "4 groups of tens = 4 * 10",
+        "The remaining items are ones.",
+        "⚽⚽⚽",
+        "Thus, there are 3 ones.",
+        "Tens of ⚽: 4, Ones of ⚽: 3",
+        "40 + 3 = 43"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Can you tell the numbers of tens and ones? Items: 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 7",
+      "solution": [
+        "The given items are:",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "We need to group them in tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴",
+        "Thus, there are 4 tens.",
+        "4 groups of tens = 4 * 10",
+        "The remaining items are ones.",
+        "🔴🔴🔴🔴🔴🔴🔴",
+        "Thus, there are 7 ones.",
+        "Tens of 🔴: 4, Ones of 🔴: 7",
+        "40 + 7 = 47"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Write down them in tens and ones. List: 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+      "type": "open-ended",
+      "answer": "Tens: 8, Ones: 6",
+      "solution": [
+        "The items are:",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "We need to sort them into tens and ones.",
+        "Let us count in groups of ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "Thus, there are 8 tens.",
+        "8 groups of tens = 8 * 10",
+        "The remaining items are ones.",
+        "🟦🟦🟦🟦🟦🟦",
+        "Thus, there are 6 ones.",
+        "Tens of 🟦: 8, Ones of 🟦: 6",
+        "80 + 6 = 86"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Write down them in tens and ones. List: 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 1",
+      "solution": [
+        "The given items are:",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "We need to group them (squares) into tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 1 tens.",
+        "1 groups of tens = 1 * 10",
+        "The remaining items are ones.",
+        "🟨",
+        "Thus, there are 1 ones.",
+        "Tens of 🟨: 1, Ones of 🟨: 1",
+        "10 + 1 = 11"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Distribute them in tens and ones. Sequence items:  🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+      "type": "open-ended",
+      "answer": "Tens: 8, Ones: 0",
+      "solution": [
+        "The list is:",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "We need to group them in tens and ones.",
+        "Let us count in groups of ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Thus, there are 8 tens.",
+        "8 groups of tens = 8 * 10",
+        "The remaining items are ones.",
+        "There are none.",
+        "Thus, there are 0 ones.",
+        "Tens of 🟫: 8, Ones of 🟫: 0",
+        "80 + 0 = 80"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Can you group them in tens and ones? Items: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+      "type": "open-ended",
+      "answer": "Tens: 8, Ones: 1",
+      "solution": [
+        "Given that:",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "We need to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "Thus, there are 8 tens.",
+        "8 groups of tens = 8 * 10",
+        "The remaining items are ones.",
+        "🟩",
+        "Thus, there are 1 ones.",
+        "Tens of 🟩: 8, Ones of 🟩: 1.",
+        "80 + 1 = 81"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Complete this: ___ tens and ___ ones. Sequence: ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+      "type": "open-ended",
+      "answer": "5 tens and 9 ones",
+      "solution": [
+        "Given that:",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "We need to sort them into tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "Thus, there are 5 tens.",
+        "5 groups of tens = 5 * 10",
+        "The remaining items are ones.",
+        "⬛⬛⬛⬛⬛⬛⬛⬛⬛",
+        "Thus, there are 9 ones.",
+        "Tens of ⬛: 5, Ones of ⬛: 9",
+        "50 + 9 = 59"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Fill up: ___ tens and ___ ones. Sequence: 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+      "type": "open-ended",
+      "answer": "Tens: 6, Ones: 0",
+      "solution": [
+        "Given that:",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "We need to group them in tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
+        "Thus, there are 6 tens.",
+        "6 groups of tens = 6 * 10",
+        "The remaining items are ones.",
+        "They'are none.",
+        "Thus, there are 0 ones.",
+        "Tens of 🟪: 6, Ones of 🟪: 0",
+        "60 + 0 = 60"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Complete this: ___ tens and ___ ones. Sequence items:  🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+      "type": "open-ended",
+      "answer": "Tens: 4, Ones: 9",
+      "solution": [
+        "The items are:",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "We need to group them in tens and ones.",
+        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We keep doing this until there are no groups of tens.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 4 tens.",
+        "4 groups of tens = 4 * 10",
+        "The remaining items are ones.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 9 ones.",
+        "Tens of 🟨: 4, Ones of 🟨: 9",
+        "40 + 9 = 49",
+        "This will ___ tens and ___ ones become:",
+        "4 tens and 9 ones"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Can you tell the numbers of tens and ones? Items: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 4",
+      "solution": [
+        "The given sequence is:",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "We're looking to sort them into tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
+        "Thus, there are 1 tens.",
+        "1 groups of tens = 1 * 10",
+        "The remaining items are ones.",
+        "🟩🟩🟩🟩",
+        "Thus, there are 4 ones.",
+        "Tens of 🟩: 1, Ones of 🟩: 4",
+        "10 + 4 = 14"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Fill up: ___ tens and ___ ones. Sequence: 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+      "type": "open-ended",
+      "answer": "Tens: 2, Ones: 8",
+      "solution": [
+        "The sequence is:",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "We need to group them in tens and ones.",
+        "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
+        "We keep doing this until there are no groups of tens.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 2 tens.",
+        "2 groups of tens = 2 * 10",
+        "The remaining items are ones.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 8 ones.",
+        "Tens of 🟨: 2, Ones of 🟨: 8",
+        "20 + 8 = 28"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 71,
+      "question": "If 🏐 represents tens and 🟥 represents ones, complete the following. Sequence items:  🏐🟥",
+      "type": "open-ended",
+      "answer": "Tens: 1, Ones: 1",
+      "solution": [
+        "Given that:",
+        "🏐🟥",
+        "Let us count the number of given tens and ones items.",
+        "There are 1 tens of 🏐.",
+        "1 tens = 1 * 10 = 10",
+        "🏐",
+        "The remaining items 🟥 are ones.",
+        "🟥",
+        "Thus, there are 1 ones.",
+        "Tens of 🏐: 1, Ones of 🟥: 1",
+        "10 + 1 = 11"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 72,
+      "question": "If 😄 represents tens and 🟩 represents ones, can you tell the numbers of tens and ones? List items: 😄😄😄😄😄😄😄🟩🟩🟩🟩🟩🟩",
+      "type": "open-ended",
+      "answer": "Tens: 7 + Ones: 6 = 76",
+      "solution": [
+        "The sequence is:",
+        "😄😄😄😄😄😄😄🟩🟩🟩🟩🟩🟩",
+        "Let us write given tens and ones.",
+        "There are 7 tens of 😄.",
+        "7 tens = 7 * 10 = 70",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "The remaining items 🟩 are ones.",
+        "🟩🟩🟩🟩🟩🟩",
+        "Thus, there are 6 ones.",
+        "Tens of 😄: 7, Ones of 🟩: 6",
+        "70 + 6 = 76"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 73,
+      "question": "If 🏐 represents tens and ⬜ represents ones, can you tell the numbers of tens and ones? Sequence: 🏐🏐🏐🏐🏐🏐🏐🏐🏐⬜",
+      "type": "open-ended",
+      "answer": "Tens: 9 + Ones: 1 = 91",
+      "solution": [
+        "The given sequence is:",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐⬜",
+        "Let us write several given tens and ones.",
+        "There are 9 tens of 🏐.",
+        "9 tens = 9 * 10 = 90",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "The remaining items ⬜ are ones.",
+        "⬜",
+        "Thus, there are 1 ones.",
+        "Tens of 🏐: 9, Ones of ⬜: 1.",
+        "90 (tens) + 1 (ones) = 91",
+        "The given sequence is:",
+        "🏐🏐🏐🏐🏐🏐🏐🏐🏐⬜",
+        "Let us write several given tens and ones.",
+        "There are 9 tens of 🏐.",
+        "9 tens = 9 * 10 = 90",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "🏐",
+        "The remaining items ⬜ are ones.",
+        "⬜",
+        "Thus, there are 1 ones.",
+        "Tens of 🏐: 9, Ones of ⬜: 1.",
+        "90 (tens) + 1 (ones) = 91"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 74,
+      "question": "If 😄 represents tens and 🟩 represents ones, fill up: ___ tens and ___ ones. Sequence: 😄😄😄😄😄😄",
+      "type": "open-ended",
+      "answer": "Tens: 6 + Ones: 0 = 60",
+      "solution": [
+        "The given sequence is:",
+        "😄😄😄😄😄😄",
+        "Let us count the number of given tens and ones items.",
+        "There are 6 tens of 😄.",
+        "6 tens = 6 * 10 = 60",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "The remaining items 🟩 are ones.",
+        "There are none.",
+        "Thus, there are 0 ones.",
+        "Tens of 😄: 6, Ones of 🟩: 0.",
+        "60 (tens) + 0 (ones) = 60"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 75,
+      "question": "If 😚 represents tens and 🟫 represents ones, write tens and ones in this sequence: 😚😚😚😚🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+      "type": "open-ended",
+      "answer": "Tens: 4 + Ones: 9 = 49",
+      "solution": [
+        "Given that",
+        "😚😚😚😚🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Counting tens and ones!",
+        "There are 4 tens of 😚.",
+        "4 tens = 4 * 10 = 40",
+        "😚",
+        "😚",
+        "😚",
+        "😚",
+        "The remaining items 🟫 are ones.",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Thus, there are 9 ones.",
+        "Tens of 😚: 4, Ones of 🟫: 9.",
+        "40 (tens) + 9 (ones) = 49",
+        "Given that",
+        "😚😚😚😚🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Counting tens and ones!",
+        "There are 4 tens of 😚.",
+        "4 tens = 4 * 10 = 40",
+        "😚",
+        "😚",
+        "😚",
+        "😚",
+        "The remaining items 🟫 are ones.",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Thus, there are 9 ones.",
+        "Tens of 😚: 4, Ones of 🟫: 9.",
+        "40 (tens) + 9 (ones) = 49"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 76,
+      "question": "If 🟠 represents tens and ⬜ represents ones, complete this: ___ tens and ___ ones. Items: 🟠🟠🟠🟠🟠🟠🟠🟠⬜",
+      "type": "open-ended",
+      "answer": "Tens: 8 + Ones: 1 = 81",
+      "solution": [
+        "The sequence is:",
+        "🟠🟠🟠🟠🟠🟠🟠🟠⬜",
+        "Step 1: Counting tens and ones!",
+        "There are 8 tens of 🟠.",
+        "8 tens = 8 * 10 = 80",
+        "🟠",
+        "🟠",
+        "🟠",
+        "🟠",
+        "🟠",
+        "🟠",
+        "🟠",
+        "🟠",
+        "Step 2: The remaining items ⬜ are ones.",
+        "⬜",
+        "Thus, there are 1 ones.",
+        "Step 3: Tens of 🟠: 8, Ones of ⬜: 1.",
+        "80 (tens) + 1 (ones) = 81"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 77,
+      "question": "If 🟣 represents tens and 🟫 represents ones, complete this: ___ tens and ___ ones. List: 🟣🟣🟣🟣🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+      "type": "open-ended",
+      "answer": "Tens: 4 + Ones: 9 = 49",
+      "solution": [
+        "The sequence is:",
+        "🟣🟣🟣🟣🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Step 1: Let us write the number of given tens and ones.",
+        "There are 4 tens of 🟣.",
+        "4 tens = 4 * 10 = 40",
+        "🟣",
+        "🟣",
+        "🟣",
+        "🟣",
+        "Step 2: The remaining items 🟫 are ones.",
+        "🟫🟫🟫🟫🟫🟫🟫🟫🟫",
+        "Thus, there are 9 ones.",
+        "Step 3: Tens of 🟣: 4, Ones of 🟫: 9.",
+        "40 (tens) + 9 (ones) = 49"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 78,
+      "question": "If 🥎 represents tens and 🟦 represents ones, complete this: ___ tens and ___ ones. Sequence: 🥎🥎🥎🥎🥎🥎🥎🥎🥎🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+      "type": "open-ended",
+      "answer": "Tens: 9 + Ones: 9 = 99",
+      "solution": [
+        "The given sequence is:",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "Step 1: Counting tens and ones!",
+        "There are 9 tens of 🥎.",
+        "9 tens = 9 * 10 = 90",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "Step 2: The remaining items 🟦 are ones.",
+        "🟦🟦🟦🟦🟦🟦🟦🟦🟦",
+        "Thus, there are 9 ones.",
+        "Step 3: Tens of 🥎: 9, Ones of 🟦: 9.",
+        "90 (tens) + 9 (ones) = 99"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 79,
+      "question": "If 😚 represents tens and💡represents ones, fill up: ___ tens and ___ ones. Sequence: 😚😚😚",
+      "type": "open-ended",
+      "answer": "Tens: 3 + Ones: 0 = 30",
+      "solution": [
+        "The items are:",
+        "😚😚😚",
+        "Step 1: Let us write the number of given tens and ones.",
+        "There are 3 tens of 😚.",
+        "3 tens = 3 * 10 = 30",
+        "😚",
+        "😚",
+        "😚",
+        "Step 2: The remaining items💡are ones.",
+        "They'are none.",
+        "Thus, there are 0 ones.",
+        "Step 3: Tens of 😚: 3, Ones of 💡: 0.",
+        "30 (tens) + 0 (ones) = 30"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 80,
+      "question": "If 🕛 represents tens and 🟧 represents ones, complete this: ___ tens and ___ ones. List: 🕛🕛🕛🕛🕛🟧🟧🟧🟧🟧🟧🟧🟧🟧",
+      "type": "open-ended",
+      "answer": "Tens: 5 + Ones: 9 = 59",
+      "solution": [
+        "Given that:",
+        "🕛🕛🕛🕛🕛🟧🟧🟧🟧🟧🟧🟧🟧🟧",
+        "Step 1: Let us write the number of given tens and ones.",
+        "There are 5 tens of 🕛.",
+        "5 tens = 5 * 10 = 50",
+        "🕛",
+        "🕛",
+        "🕛",
+        "🕛",
+        "🕛",
+        "Step 2: The remaining items 🟧 are ones.",
+        "🟧🟧🟧🟧🟧🟧🟧🟧🟧",
+        "Thus, there are 9 ones.",
+        "Step 3: Tens of 🕛: 5, Ones of 🟧: 9.",
+        "50 (tens) + 9 (ones) = 59"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 81,
+      "question": "If 😄 represents tens and 🟧 represents ones, complete this: ___ tens and ___ ones. List items: 😄😄😄😄😄😄😄😄😄🟧🟧🟧🟧🟧",
+      "type": "open-ended",
+      "answer": "Tens: 9 + Ones: 5 = 95",
+      "solution": [
+        "The given items are:",
+        "😄😄😄😄😄😄😄😄😄🟧🟧🟧🟧🟧",
+        "Step 1: Let us write the number of given tens and ones.",
+        "There are 9 tens of 😄.",
+        "9 tens = 9 * 10 = 90",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "😄",
+        "Step 2: The remaining items 🟧 are ones.",
+        "🟧🟧🟧🟧🟧",
+        "Thus, there are 5 ones.",
+        "Step 3: Tens of 😄: 9, Ones of 🟧: 5.",
+        "90 (tens) + 5 (ones) = 95"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 82,
+      "question": "If 🏀 represents tens and 🟪 represents ones, can you tell the numbers of tens and ones? List items: 🏀🏀🏀🏀🏀🟪",
+      "type": "open-ended",
+      "answer": "Tens: 5 + Ones: 1 = 51",
+      "solution": [
+        "The given items are:",
+        "🏀🏀🏀🏀🏀🟪",
+        "Step 1: Counting tens and ones!",
+        "There are 5 tens of 🏀.",
+        "5 tens = 5 * 10 = 50",
+        "🏀",
+        "🏀",
+        "🏀",
+        "🏀",
+        "🏀",
+        "Step 2: The remaining items 🟪 are ones.",
+        "🟪",
+        "Thus, there are 1 ones.",
+        "Step 3: Tens of 🏀: 5, Ones of 🟪: 1.",
+        "50 (tens) + 1 (ones) = 51"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 83,
+      "question": "If ⚽ represents tens and 🟥 represents ones, can you tell the numbers of tens and ones? List: ⚽⚽⚽⚽",
+      "type": "open-ended",
+      "answer": "Tens: 4 + Ones: 0 = 40",
+      "solution": [
+        "The items are:",
+        "⚽⚽⚽⚽",
+        "Step 1: Counting tens and ones!",
+        "There are 4 tens of ⚽.",
+        "4 tens = 4 * 10 = 40",
+        "⚽",
+        "⚽",
+        "⚽",
+        "⚽",
+        "Step 2: The remaining items 🟥 are ones.",
+        "They’re none.",
+        "Thus, there are 0 ones.",
+        "Step 3: Tens of ⚽: 4, Ones of 🟥: 0.",
+        "",
+        "40 (tens) + 0 (ones) = 40"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 84,
+      "question": "If 🥎 represents tens and 🟨 represents ones, complete the following: ___ tens + ___ ones List: 🥎🥎🥎🥎🥎🥎🥎🥎🥎🟨🟨🟨🟨🟨🟨🟨🟨",
+      "type": "open-ended",
+      "answer": "Tens: 9 + Ones: 8 = 98",
+      "solution": [
+        "Given that:",
+        "🥎🥎🥎🥎🥎🥎🥎🥎🥎🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Step 1: Counting tens and ones!",
+        "There are 9 tens of 🥎.",
+        "9 tens = 9 * 10 = 90",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "🥎",
+        "Step 2: The remaining items 🟨 are ones.",
+        "🟨🟨🟨🟨🟨🟨🟨🟨",
+        "Thus, there are 8 ones.",
+        "Step 3: Tens of 🥎: 9, Ones of 🟨: 8.",
+        "90 (tens) + 8 (ones) = 98"
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 85,
+      "question": "Which is larger: 28 92?",
+      "type": "open-ended",
+      "answer": "Thus, 92 is larger.",
+      "solution": [
+        "The numbers are:",
+        "28 92",
+        "Let us look at the tens place. We find that tens of 28 is less than that of 92.",
+        "Thus, 92 is larger or greater than 28."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 86,
+      "question": "Which is larger: 47 71?",
+      "type": "open-ended",
+      "answer": "Thus, 71 is larger.",
+      "solution": [
+        "We know:",
+        "47 71",
+        "Let us look at the tens place. We find that tens of 47 is less than that of 71.",
+        "Thus, 71 is larger or greater than 47."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 87,
+      "question": "Which is larger: 30 97?",
+      "type": "open-ended",
+      "answer": "Thus, 97 is larger.",
+      "solution": [
+        "We have:",
+        "30 97",
+        "Let us look at the tens place. We find that tens of 30 is less than that of 97.",
+        "Now, check their ones place. We find that ones of 30 is less than that of 97.",
+        "Thus, 97 is larger or greater than 30."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 88,
+      "question": "Which is larger: 50 60?",
+      "type": "open-ended",
+      "answer": "Thus, 60 is larger.",
+      "solution": [
+        "This is given:",
+        "50 60",
+        "Let us look at the tens place. We find that tens of 50 (5) is less than that of 60 (6).",
+        "Thus, 60 is larger or greater than 50."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 89,
+      "question": "Which is larger: 19 62?",
+      "type": "open-ended",
+      "answer": "Thus, 62 is larger.",
+      "solution": [
+        "The given numbers are:",
+        "19 62",
+        "Let us look at the tens place. We find that tens of 19 (1) is less than that of 62 (6).",
+        "Thus, 62 is larger or greater than 19."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 90,
+      "question": "Which is smaller: 2 60?",
+      "type": "open-ended",
+      "answer": "Thus, 2 is smaller.",
+      "solution": [
+        "We have:",
+        "2 60",
+        "Let us look at the tens place. We find that tens of 2 (0) is less than that of 60 (6).",
+        "Thus, 2 is smaller than 60."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 91,
+      "question": "Which is smaller: 23 78?",
+      "type": "open-ended",
+      "answer": "Thus, 23 is smaller.",
+      "solution": [
+        "The given numbers are:",
+        "23 78",
+        "Let us look at the tens place. We find that tens of 23 (2) is less than that of 78 (7).",
+        "Thus, 23 is smaller than 78."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 92,
+      "question": "Which is smaller: 28 54?",
+      "type": "open-ended",
+      "answer": "Thus, 28 is smaller.",
+      "solution": [
+        "Given that",
+        "28 54",
+        "Let us look at the tens place. We find that tens of 28 (2) is less than that of 54 (5).",
+        "Thus, 28 is smaller than 54."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 93,
+      "question": "Which is smaller: 35 67?",
+      "type": "open-ended",
+      "answer": "Thus, 35 is smaller.",
+      "solution": [
+        "Given that",
+        "35 67",
+        "Let us look at the tens place. We find that tens of 35 (3) is less than that of 67 (6).",
+        "Thus, 35 is smaller than 67."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 94,
+      "question": "Which is larger: 22 93?",
+      "type": "open-ended",
+      "answer": "Thus, 22 is smaller.",
+      "solution": [
+        "Given that",
+        "22 93",
+        "Let us look at the tens place. We find that tens of 22 (2) is less than that of 93 (9).",
+        "Thus, 22 is smaller than 93."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 95,
+      "question": "Which is larger: 43 50?",
+      "type": "open-ended",
+      "answer": "Thus, 50 is larger.",
+      "solution": [
+        "This is given:",
+        "43 50",
+        "Let us look at the tens place. We find that tens of 43 (4) is less than that of 50 (5).",
+        "Thus, 50 is larger or greater than 43."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 96,
+      "question": "Which is larger: 7 or 70?",
+      "type": "open-ended",
+      "answer": "Thus, 70 is larger.",
+      "solution": [
+        "The numbers are:",
+        "7 and 70",
+        "Let us look at the tens place. We find that the tens place of 7 is not present. The tens place of 70 is 7.",
+        "Now, check their ones place. We find that the ones place of 7 is 7. The ones place of 70 is 0. Here, 7 is greater than 0.",
+        "But the tens place of 70 is more, although there is no tens place in 7.",
+        "Thus, 70 is larger or greater than 7."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 97,
+      "question": "0 > 1?",
+      "type": "true-false",
+      "answer": "False",
+      "solution": [
+        "Given that",
+        "0 > 1",
+        "But 0 is not greater than 1.",
+        "Thus, it’s false."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 98,
+      "question": "0 < 1?",
+      "type": "true-false",
+      "answer": "True",
+      "solution": [
+        "Given that",
+        "0 < 1",
+        "Yes, 0 is less than 1.",
+        "Thus, it’s true."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 99,
+      "question": "0 = 1?",
+      "type": "true-false",
+      "answer": "False",
+      "solution": [
+        "Given that",
+        "0 = 1",
+        "This is an inequality. 0 is not equal to 1.",
+        "This statement is false."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 100,
+      "question": "0 = 0?",
+      "type": "true-false",
+      "answer": "True",
+      "solution": [
+        "Given that",
+        "0 = 0",
+        "Both sides of the above equation are the same. This is true."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    },
+    {
+      "id": 101,
+      "question": "1 < 0?",
+      "type": "true-false",
+      "answer": "False",
+      "solution": [
+        "It’s given that",
+        "1 < 0",
+        "But 1 comes after 0 in counting in increasing order. So, it’s not less than (<) 0.",
+        "This statement is false."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Math Reasoning", "Number Comparison"
+      ]
+    }
+  ]
+
