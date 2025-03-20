@@ -32,8 +32,8 @@ dataset_info:
   - name: train
     num_bytes: [size_in_bytes]
     num_examples: 101
-  download_size: [download_size_in_bytes]
-  dataset_size: [dataset_size_in_bytes]
+  download_size: 5.19 kB
+  dataset_size: ~ 5 kB
 ---
 
 # Dataset Card for QAMLC
