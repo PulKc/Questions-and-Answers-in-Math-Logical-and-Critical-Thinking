@@ -9,10 +9,10 @@
         "2, 4, 6, 8, 10",
         "We need to find out the next number in this sequence:",
         "2, 4, 6, 8, 10",
-        "Let’s find out some patterns between 1 and 3.",
+        "Let us find out some patterns between 1 and 3.",
         "Adding 2 to 2 gives 4",
         "2 + 2 = 4",
-        "Now let's add 2 to 4",
+        "Now let us add 2 to 4",
         "2 + 4 = 6",
         "Similarly,",
         "2 + 6 = 8",
@@ -35,16 +35,16 @@
       "solution": [
         "Ram needs to fill up the given sequence:",
         "2, 4, ..., 8, 10, ..., 14, 16, 18",
-        "We will try to find some meaningful pattern in it. Let’s subtract them one by one. We will leave the blanks.",
-        "4 – 2 = 2",
-        "10 – 8 = 2",
-        "16 – 14 = 2",
-        "18 – 16 = 2",
+        "We will try to find some meaningful pattern in it. Let us subtract them one by one. We will leave the blanks.",
+        "4 - 2 = 2",
+        "10 - 8 = 2",
+        "16 - 14 = 2",
+        "18 - 16 = 2",
         "We can see that the difference between the numbers is 2 continuously.",
-        "We need to find a number before 8 in this sequence. Let’s subtract 2 from it.",
-        "8 – 2 = 6",
-        "Similarly, there is a blank before 14. Let’s subtract 2 from it as well.",
-        "14 – 2 = 12",
+        "We need to find a number before 8 in this sequence. Let us subtract 2 from it.",
+        "8 - 2 = 6",
+        "Similarly, there is a blank before 14. Let us subtract 2 from it as well.",
+        "14 - 2 = 12",
         "Thus, the missing numbers in the given sequence which Ram is playing are: 6 and 12.",
         "The filled-up sequence is:",
         "2, 4, 6, 8, 10, 12, 14, 16, 18"
@@ -61,14 +61,14 @@
       "answer": "Virahānka numbers or Fibonacci sequence. 55",
       "solution": [
         "We are asked to recognise and name this sequence: 1, 2, 3, 5, 8, 13, 21, 34. Also, we need to find the next sequence number.",
-        "Let’s try adding 1 to each item to get the next one.",
+        "Let us try adding 1 to each item to get the next one.",
         "1",
         "2 + 1 = 3",
         "3 + 1 = 4",
         "5 + 1 = 6",
         "...",
         "They are not following this pattern.",
-        "Let’s add them one by one in this sequence: 1, 2, 3, 5, 8, 13, 21, 34.",
+        "Let us add them one by one in this sequence: 1, 2, 3, 5, 8, 13, 21, 34.",
         "1 + 2 = 3",
         "2 + 3 = 5",
         "3 + 5 = 8",
@@ -93,14 +93,14 @@
         "We have,",
         "1, 8, 27, 64, 125, ...",
         "We are asked to find the upcoming number ...",
-        "Let’s search for any meaningful pattern in this sequence.",
+        "Let us search for any meaningful pattern in this sequence.",
         "If we try to subtract the adjacent numbers, we get,",
-        "8 – 1 = 7",
-        "27 – 8 = 19",
-        "64 – 27 = 37",
-        "125 – 64 = 61",
+        "8 - 1 = 7",
+        "27 - 8 = 19",
+        "64 - 27 = 37",
+        "125 - 64 = 61",
         "They do not follow any pattern.",
-        "Let’s try another way. We can see that the numbers are increasing rapidly. Simple addition or subtraction won’t make up this sequence. Numbers grow exponentially when they are squared or cubed. Let’s try cubing on 1, 2, 3...",
+        "Let us try another way. We can see that the numbers are increasing rapidly. Simple addition or subtraction will not make up this sequence. Numbers grow exponentially when they are squared or cubed. Let us try cubing on 1, 2, 3...",
         "13 = 1",
         "23 = 2 * 2 * 2 = 8",
         "33 = 3 * 3 * 3 = 27",
@@ -121,11 +121,11 @@
       "type": "open-ended",
       "answer": "62.6",
       "solution": [
-        "Let's solve it step-by-step.",
+        "Let us solve it step-by-step.",
         "We have the following numbers:",
         "56, 78, 45, 34, 56, 89, 78, 34, 67, 89",
-        "Let's sum them up. The sum is 626.",
-        "Now, divide the sum (626) by the count of items that's 10.",
+        "Let us sum them up. The sum is 626.",
+        "Now, divide the sum (626) by the count of items that is 10.",
         "The mean or average is:",
         "626 ÷ 10 = 62.6"
       ],
@@ -144,8 +144,8 @@
         "The formula is = sum of all items/number of items",
         "The heights in cm are:",
         "160, 158, 162, 157, 150, 148, 154, 156.5, 157.4, 157.8, 159.5",
-        "Let's sum them up. The sum is 1720.2 cm.",
-        "Now, divide the sum (1720.2) by the count of items that's 11.",
+        "Let us sum them up. The sum is 1720.2 cm.",
+        "Now, divide the sum (1720.2) by the count of items that is 11.",
         "The mean or average is:",
         "1720.2 cm ÷ 11 = 156.38 cm",
         "So, the average height of a student in the class is 156.38 cm"
@@ -282,10 +282,10 @@
       "solution": [
         "The given objects or emojis are:",
         "😃😄🔋🌝🏞️🍪🏀🛢️🌆💿🧿🎾🎲🎇📀🪫",
-        "Let’s solve this problem step-by-step. We’ll arrange them according to their shape and how they are looking.",
-        "Some of the emojis appear round or circular like a chapatti. We’ll sort them out first.",
+        "Let us solve this problem step-by-step. We will arrange them according to their shape and how they are looking.",
+        "Some of the emojis appear round or circular like a chapatti. We will sort them out first.",
         "Circular or round shape: 😃😄🌝🍪🏀💿🧿🎾📀",
-        "Some are with edges. They’re square.",
+        "Some are with edges. They are square.",
         "Squared shape: 🏞️🌆🎇",
         "Some are cylindrical like a bottle.",
         "Cylindrical shape: 🔋🛢️🪫",
@@ -305,10 +305,10 @@
       "solution": [
         "Given that:",
         "😃😄🌝🌆💿🧿🎾🍪🏀🛢️🎇📀🪫",
-        "Let’s sort out emojis that look round in shape like a pizza!",
+        "Let us sort out emojis that look round in shape like a pizza!",
         "😃😄🌝💿🧿🎾🍪🏀📀",
         "Now, count them.",
-        "They’re 9 in number.",
+        "They are 9 in number.",
         "The number of round-shaped objects is 9."
       ],
       "difficulty": "Easy",
@@ -324,9 +324,9 @@
       "solution": [
         "The sequence is:",
         "AAAAAAAAAAAAAA",
-        "We need to count the number of A’s. Let’s count them one by one.",
+        "We need to count the number of A’s. Let us count them one by one.",
         "14",
-        "Let’s verify by counting them from right to left.",
+        "Let us verify by counting them from right to left.",
         "14",
         "Thus, the number of A’s in the given sequence is 14."
       ],
@@ -343,9 +343,9 @@
       "solution": [
         "The sequence is:",
         "AAAAAAAAAAA",
-        "We need to know the number of A’s. Let’s count them one by one.",
+        "We need to know the number of A’s. Let us count them one by one.",
         "11",
-        "Let’s verify by counting them from right to left.",
+        "Let us verify by counting them from right to left.",
         "11",
         "Thus, the number of A’s in the given sequence is 11."
       ],
@@ -362,9 +362,9 @@
       "solution": [
         "Given that the sequence is:",
         "OOOOOOAOOOOAOOOA",
-        "We need to count the number of O’s. But there are A’s as well. We’ll leave them. Let’s count O’s one by one.",
+        "We need to count the number of O’s. But there are A’s as well. We will leave them. Let us count O’s one by one.",
         "13",
-        "Let’s verify by counting them from right to left.",
+        "Let us verify by counting them from right to left.",
         "13",
         "Thus, the number of O’s in the given sequence is 13."
       ],
@@ -381,9 +381,9 @@
       "solution": [
         "Given that the sequence is:",
         "OOOOOOOOOOO",
-        "We need to count the number of O’s. Let’s count O’s one by one.",
+        "We need to count the number of O’s. Let us count O’s one by one.",
         "11",
-        "Let’s verify by counting them from right to left.",
+        "Let us verify by counting them from right to left.",
         "11",
         "Thus, the number of O’s in the given sequence is 11."
       ],
@@ -400,7 +400,7 @@
       "solution": [
         "The given list is:",
         "🌈🎲🧩😃",
-        "We need to mark the shape which is similar to 😀, a round one. Let’s check one by one.",
+        "We need to mark the shape which is similar to 😀, a round one. Let us check one by one.",
         "🌈 This is not looking perfectly round.",
         "🎲 This is also not looking round.",
         "🧩 This is a different shape.",
@@ -420,7 +420,7 @@
       "solution": [
         "The given list is:",
         "🦜🎲🟦😃",
-        "We need to identify a shape which is similar to 🟩, a square one. Let’s check one by one.",
+        "We need to identify a shape which is similar to 🟩, a square one. Let us check one by one.",
         "🦜🎲🟦😃",
         "🦜 This is not looking perfectly squared.",
         "🎲 This is also not looking square.",
@@ -441,7 +441,7 @@
       "solution": [
         "The given list is:",
         "🎲🟦😃",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🎲 This is some dice, and it has 6 faces. It is a cube.",
         "🟦 This is a squared shape with 4 edges.",
         "😃 This is looking like a circle with no edges.",
@@ -461,7 +461,7 @@
       "solution": [
         "The given list is:",
         "🎲🟦😃",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🎲 This is some dice, and it has 6 faces. It is a cube.",
         "🟦 This is a squared shape with 4 edges.",
         "😃 This is looking like a circle with no edges.",
@@ -481,7 +481,7 @@
       "solution": [
         "The given list is:",
         "🎲🟦😃",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🎲 This is some dice, and it has 6 faces. It is a cube.",
         "🟦 This is a squared shape with 4 edges.",
         "😃 This is looking like a circle with no edges.",
@@ -501,7 +501,7 @@
       "solution": [
         "The given list is:",
         "🎲🟦😃",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🎲 This is some dice, and it has 6 faces. It is a cube.",
         "🟦 This is a squared shape with 4 edges.",
         "😃 This is looking like a circle with no edges.",
@@ -536,12 +536,12 @@
       "type": "open-ended",
       "answer": "4🍎s, 3🍏s, 3⌚️s, 2🌸s.",
       "solution": [
-        "First, we’ll sort the similar items.",
+        "First, we will sort the similar items.",
         "Red apples: 🍎🍎🍎🍎",
         "Green apples: 🍏🍏🍏",
         "Watches: ⌚️⌚️⌚️",
         "Cherry blossom: 🌸🌸",
-        "Let’s count them and report.",
+        "Let us count them and report.",
         "Red apples (🍎): 4",
         "Green apples (🍏): 3",
         "Watches (⌚️): 3",
@@ -559,7 +559,7 @@
       "type": "open-ended",
       "answer": "3💻s, 3🍏s, 2⌨️s, 4🖱️s",
       "solution": [
-        "First, we’ll sort the similar items.",
+        "First, we will sort the similar items.",
         "Laptops: 💻💻💻",
         "Green apples: 🍏🍏🍏",
         "Keyboard: ⌨️⌨️",
@@ -583,13 +583,13 @@
       "answer": "There are 2 bananas in the list. There are 2 red apples in the list. There is 1 cherry blossom in the list.",
       "solution": [
         "The given list is: 🍎🌸🍎🍌🍌",
-        "We’ll sort the similar items and count them.",
+        "We will sort the similar items and count them.",
         "Red apples 🍎🍎",
         "They are 2 in number.",
         "Bananas 🍌🍌",
         "They are 2 in number.",
         "Cherry blossom 🌸",
-        "It’s 1 in number.",
+        "It is 1 in number.",
         "Now, we can fill up the blanks.",
         "There are 2 bananas in the list.",
         "There are 2 red apples in the list.",
@@ -608,8 +608,8 @@
       "solution": [
         "The given items are:",
         "🧿🟧🧊🪫",
-        "We're looking for a circle.",
-        "Let’s check them one by one for their shape.",
+        "We are looking for a circle.",
+        "Let us check them one by one for their shape.",
         "🧿 This is a circular or round shape.",
         "🟧 This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -630,7 +630,7 @@
         "The items are:",
         "🎱️🎲🪫",
         "We need to find a cube.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🎱 This is a circular or round shape.",
         "🎲 This is looking like a cube.",
         "🪫 This is looking like a cylinder.",
@@ -649,8 +649,8 @@
       "solution": [
         "The items are:",
         "🟣🟫🎲🪫",
-        "We're looking for a square.",
-        "Let’s check them one by one for their shape.",
+        "We are looking for a square.",
+        "Let us check them one by one for their shape.",
         "🟣 This is a circular or round shape.",
         "🟫 This is a squared shape.",
         "🎲 This is looking like a cube.",
@@ -671,7 +671,7 @@
         "Given that:",
         "😆🟩🧊🛢",
         "We need to identify a square.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "😆 This is a circular or round shape.",
         "🟩 This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -692,7 +692,7 @@
         "The sequence is:",
         "🟢🟦🧊🛢",
         "We need to identify a circle.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🟢 This is a circular or round shape.",
         "🟦 This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -713,7 +713,7 @@
         "The given sequence is:",
         "😆🟧🧊🛢",
         "We need to identify a square.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "😆 This is a circular or round shape.",
         "🟧 This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -734,7 +734,7 @@
         "The list is:",
         "🔴🎲🛢",
         "We need to identify a cylinder.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "🔴 This is a circular or round shape.",
         "🎲 This is looking like a cube.",
         "🛢 This is looking like a cylinder.",
@@ -754,7 +754,7 @@
         "The sequence is:",
         "😕⬜🧊🪫",
         "We need to find a circle.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "😕 This is a circular or round shape.",
         "⬜ This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -775,7 +775,7 @@
         "The items are:",
         "😃🟪🧊️",
         "We need to identify a cube.",
-        "Let’s check them one by one for their shape.",
+        "Let us check them one by one for their shape.",
         "😃 This is a circular or round shape.",
         "🟪 This is a squared shape.",
         "🧊 This is looking like a cube.",
@@ -793,9 +793,9 @@
       "answer": "-22",
       "solution": [
         "Given:",
-        "23 – 45",
+        "23 - 45",
         "We wish to subtract them.",
-        "= 23 – 45 = -22"
+        "= 23 - 45 = -22"
       ],
       "difficulty": "Easy",
       "skills_required": [
@@ -806,12 +806,12 @@
       "id": 40,
       "question": "Mark a circle in this list: 🏀️🎲🪫",
       "type": "open-ended",
-      "answer": "️ 🏀 is a circle",
+      "answer": "️🏀 is a circle",
       "solution": [
         "Given that:",
         "🏀️🎲🪫",
-        "We're looking for a circle.",
-        "Let’s check them one by one for their shape.",
+        "We are looking for a circle.",
+        "Let us check them one by one for their shape.",
         "🏀 This is a circular or round shape.",
         "🎲 This is looking like a cube.",
         "🪫 This is looking like a cylinder.",
@@ -829,8 +829,8 @@
       "answer": "25831",
       "solution": [
         "We know the numbers:",
-        "1 1 1 2 3 4 1 -2 103 29384 -293 2 -393 –2983",
-        "We want to add them. Let’s add them.",
+        "1 1 1 2 3 4 1 -2 103 29384 -293 2 -393 -2983",
+        "We want to add them. Let us add them.",
         "= 1 + 1 + 1 + 2 + 3 + 4 + 1 + (-2) + 103 + 29384 + (-293) + 2 + (-393) + (-2983)",
         "= 25831",
         "The sum is 25831"
@@ -869,8 +869,8 @@
       "solution": [
         "The items are:",
         "😉🟪🎲🛢",
-        "We're looking for a square.",
-        "Let’s check them one by one for their shape.",
+        "We are asked to find the upcoming number ...",
+        "Let us check them one by one for their shape.",
         "😉 This is a circular or round shape.",
         "🟪 This is a squared shape.",
         "🎲 This is looking like a cube.",
@@ -930,8 +930,8 @@
       "solution": [
         "The list is:",
         "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
-        "We're looking to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We are looking to sort them into tens and ones.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
         "🥹🥹🥹🥹🥹🥹🥹🥹🥹🥹",
         "Thus, there are 2 tens (2 groups of tens).",
@@ -954,7 +954,7 @@
         "The given sequence is:",
         "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
         "We need to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
         "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀",
@@ -1069,7 +1069,7 @@
         "The items are:",
         "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
         "We need to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
         "⚾⚾⚾⚾⚾⚾⚾⚾⚾⚾",
@@ -1125,8 +1125,8 @@
       "solution": [
         "The given sequence is:",
         "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
-        "We're looking to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We are looking to sort them into tens and ones.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
         "🏐🏐🏐🏐🏐🏐🏐🏐🏐🏐",
@@ -1153,7 +1153,7 @@
       "solution": [
         "Given that:",
         "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
-        "We're looking to sort them into tens and ones.",
+        "We are looking to sort them into tens and ones.",
         "Let us count in groups of ten.",
         "We keep doing this until there are no groups of tens.",
         "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
@@ -1179,7 +1179,7 @@
       "solution": [
         "The given sequence is:",
         "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
-        "We're looking to sort them into tens and ones.",
+        "We are looking to sort them into tens and ones.",
         "Let us count in groups of ten.",
         "We keep doing this until there are no groups of tens.",
         "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
@@ -1231,8 +1231,8 @@
       "solution": [
         "The given items are:",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
-        "We're looking to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We are looking to sort them into tens and ones.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
@@ -1259,7 +1259,7 @@
         "The list is:",
         "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
         "We need to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🧿🧿🧿🧿🧿🧿🧿🧿🧿🧿",
         "Thus, there are 1 tens.",
@@ -1283,8 +1283,8 @@
       "solution": [
         "The sequence is:",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
-        "We're looking to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We are looking to sort them into tens and ones.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
         "🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾",
@@ -1456,7 +1456,7 @@
         "Given that:",
         "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
         "We need to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
         "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
@@ -1488,7 +1488,7 @@
         "Given that:",
         "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
         "We need to sort them into tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
         "⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛",
@@ -1517,7 +1517,7 @@
         "Given that:",
         "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
         "We need to group them in tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
         "🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪",
@@ -1528,7 +1528,7 @@
         "Thus, there are 6 tens.",
         "6 groups of tens = 6 * 10",
         "The remaining items are ones.",
-        "They'are none.",
+        "They are none.",
         "Thus, there are 0 ones.",
         "Tens of 🟪: 6, Ones of 🟪: 0",
         "60 + 0 = 60"
@@ -1547,7 +1547,7 @@
         "The items are:",
         "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
         "We need to group them in tens and ones.",
-        "We'll start counting them in tens. If we reach 10 items then we write 1 ten.",
+        "We will start counting them in tens. If we reach 10 items then we write 1 ten.",
         "We keep doing this until there are no groups of tens.",
         "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
         "🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨",
@@ -1576,7 +1576,7 @@
       "solution": [
         "The given sequence is:",
         "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
-        "We're looking to sort them into tens and ones.",
+        "We are looking to sort them into tens and ones.",
         "Let us sort them into tens by counting them. We write 1 ten if we count 10s of them.",
         "We keep doing this until there are no groups of tens.",
         "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
@@ -1891,7 +1891,7 @@
         "😚",
         "😚",
         "Step 2: The remaining items💡are ones.",
-        "They'are none.",
+        "They are none.",
         "Thus, there are 0 ones.",
         "Step 3: Tens of 😚: 3, Ones of 💡: 0.",
         "30 (tens) + 0 (ones) = 30"
@@ -2317,6 +2317,1981 @@
       "skills_required": [
         "Math Reasoning", "Number Comparison"
       ]
+    },
+    {
+      "id": 102,
+      "question": "What is 8 + 9?",
+      "type": "open-ended",
+      "answer": "17",
+      "solution": [
+        "Adding 8 to 9 gives 17. For example, 🟢🟢🟢🟢🟢🟢🟢🟢 + 🟢🟢🟢🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 103,
+      "question": "What is 2 + 8?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 2 to 8 gives 10. For example, 🍊🍊 + 🍊🍊🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 104,
+      "question": "What is 9 + 1?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 9 to 1 gives 10. For example, 🍊🍊🍊🍊🍊🍊🍊🍊🍊 + 🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 105,
+      "question": "What is 6 + 5?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 6 to 5 gives 11. For example, 🍊🍊🍊🍊🍊🍊 + 🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 106,
+      "question": "What is 8 + 4?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Adding 8 to 4 gives 12. For example, 🌸🌸🌸🌸🌸🌸🌸🌸 + 🌸🌸🌸🌸 = 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 107,
+      "question": "What is 3 + 8?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 3 to 8 gives 11. For example, 🥭🥭🥭 + 🥭🥭🥭🥭🥭🥭🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 108,
+      "question": "What is 6 + 6?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Adding 6 to 6 gives 12. For example, 🟢🟢🟢🟢🟢🟢 + 🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 109,
+      "question": "What is 8 + 7?",
+      "type": "open-ended",
+      "answer": "15",
+      "solution": [
+        "Adding 8 to 7 gives 15. For example, 🍊🍊🍊🍊🍊🍊🍊🍊 + 🍊🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 110,
+      "question": "What is 6 + 0?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 6 to 0 gives 6. For example, 🌸🌸🌸🌸🌸🌸 + 0  = 🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 111,
+      "question": "What is 2 + 3?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Adding 2 to 3 gives 5. For example, 🌸🌸 + 🌸🌸🌸 = 🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 112,
+      "question": "What is 1 + 4?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Adding 1 to 4 gives 5. For example, 🍏 + 🍏🍏🍏🍏 = 🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 113,
+      "question": "What is 5 + 3?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 5 to 3 gives 8. For example, 🍊🍊🍊🍊🍊 + 🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 114,
+      "question": "What is 2 + 4?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 2 to 4 gives 6. For example, 🌸🌸 + 🌸🌸🌸🌸 = 🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 115,
+      "question": "What is 1 + 5?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 1 to 5 gives 6. For example, 🍊 + 🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 116,
+      "question": "What is 3 + 5?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 3 to 5 gives 8. For example, 🍋🍋🍋 + 🍋🍋🍋🍋🍋 = 🍋🍋🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 117,
+      "question": "What is 0 + 1?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Adding 0 to 1 gives 1. For example, 0 + 🟢 = 🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 118,
+      "question": "What is 5 + 4?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 5 to 4 gives 9. For example, 🥭🥭🥭🥭🥭 + 🥭🥭🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 119,
+      "question": "What is 6 + 2?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 6 to 2 gives 8. For example, 🥭🥭🥭🥭🥭🥭 + 🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 120,
+      "question": "What is 4 + 6?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 4 to 6 gives 10. For example, 🍊🍊🍊🍊 + 🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 121,
+      "question": "What is 8 + 1?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 8 to 1 gives 9. For example, 🍋🍋🍋🍋🍋🍋🍋🍋 + 🍋 = 🍋🍋🍋🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 122,
+      "question": "What is 3 + 2?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Adding 3 to 2 gives 5. For example, 🟣🟣🟣 + 🟣🟣 = 🟣🟣🟣🟣🟣."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 123,
+      "question": "What is 4 + 0?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Adding 4 to 0 gives 4. For example, 🍋🍋🍋🍋 + 0 = 🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 124,
+      "question": "What is 5 + 1?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 5 to 1 gives 6. For example, 🍎🍎🍎🍎🍎 + 🍎 = 🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 125,
+      "question": "What is 4 + 9?",
+      "type": "open-ended",
+      "answer": "13",
+      "solution": [
+        "Adding 4 to 9 gives 13. For example, 🍎🍎🍎🍎 + 🍎🍎🍎🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 126,
+      "question": "What is 1 + 6?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Adding 1 to 6 gives 7. For example, 🍎 + 🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 127,
+      "question": "What is 5 + 7?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Adding 5 to 7 gives 12. For example, 🍎🍎🍎🍎🍎 + 🍎🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 128,
+      "question": "What is 5 + 0?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Adding 5 to 0 gives 5. For example, 🌸🌸🌸🌸🌸 + 0 = 🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 129,
+      "question": "What is 7 + 8?",
+      "type": "open-ended",
+      "answer": "15",
+      "solution": [
+        "Adding 7 to 8 gives 15. For example, 🍊🍊🍊🍊🍊🍊🍊 + 🍊🍊🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 130,
+      "question": "What is 5 + 5?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 5 to 5 gives 10. For example, 🍓🍓🍓🍓🍓 + 🍓🍓🍓🍓🍓 = 🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 131,
+      "question": "What is 5 + 9?",
+      "type": "open-ended",
+      "answer": "14",
+      "solution": [
+        "Adding 5 to 9 gives 14. For example, 🟢🟢🟢🟢🟢 + 🟢🟢🟢🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 132,
+      "question": "What is 7 + 2?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 7 to 2 gives 9. For example, 🌸🌸🌸🌸🌸🌸🌸 + 🌸🌸 = 🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 133,
+      "question": "What is 3 + 3?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 3 to 3 gives 6. For example, 🍏🍏🍏 + 🍏🍏🍏 = 🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 134,
+      "question": "What is 4 + 4?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 4 to 4 gives 8. For example, 🌸🌸🌸🌸 + 🌸🌸🌸🌸 = 🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 135,
+      "question": "What is 2 + 5?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Adding 2 to 5 gives 7. For example, 🟣🟣 + 🟣🟣🟣🟣🟣 = 🟣🟣🟣🟣🟣🟣🟣."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 136,
+      "question": "What is 8 + 2?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 8 to 2 gives 10. For example, 🥭🥭🥭🥭🥭🥭🥭🥭 + 🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 137,
+      "question": "What is 3 + 7?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 3 to 7 gives 10. For example, 🍋🍋🍋 + 🍋🍋🍋🍋🍋🍋🍋 = 🍋🍋🍋🍋🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 138,
+      "question": "What is 9 + 8?",
+      "type": "open-ended",
+      "answer": "17",
+      "solution": [
+        "Adding 9 to 8 gives 17. For example, 🍏🍏🍏🍏🍏🍏🍏🍏🍏 + 🍏🍏🍏🍏🍏🍏🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 139,
+      "question": "What is 2 + 9?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 2 to 9 gives 11. For example, 🍎🍎 + 🍎🍎🍎🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 140,
+      "question": "What is 7 + 9?",
+      "type": "open-ended",
+      "answer": "16",
+      "solution": [
+        "Adding 7 to 9 gives 16. For example, 🥭🥭🥭🥭🥭🥭🥭 + 🥭🥭🥭🥭🥭🥭🥭🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 141,
+      "question": "What is 0 + 9?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 0 to 9 gives 9. For example, 0 + 🍎🍎🍎🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 142,
+      "question": "What is 8 + 0?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 8 to 0 gives 8. For example, 🥭🥭🥭🥭🥭🥭🥭🥭 + 0  = 🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 143,
+      "question": "What is 1 + 2?",
+      "type": "open-ended",
+      "answer": "3 F",
+      "solution": [
+        "Adding 1 to 2 gives 3. For example, 🟢 + 🟢🟢 = 🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 144,
+      "question": "What is 0 + 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Adding 0 to 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 145,
+      "question": "What is 5 + 6?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 5 to 6 gives 11. For example, 🟢🟢🟢🟢🟢 + 🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 146,
+      "question": "What is 1 + 7?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 1 to 7 gives 8. For example, 🟢 + 🟢🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 147,
+      "question": "What is 3 + 4?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Adding 3 to 4 gives 7. For example, 🥭🥭🥭 + 🥭🥭🥭🥭 = 🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 148,
+      "question": "What is 4 + 2?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Adding 4 to 2 gives 6. For example, 🟣🟣🟣🟣 + 🟣🟣 = 🟣🟣🟣🟣🟣🟣."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 149,
+      "question": "What is 1 + 1?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Adding 1 to 1 gives 2. For example, 🍎 + 🍎 = 🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 150,
+      "question": "What is 3 + 9?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Adding 3 to 9 gives 12. For example, 🍎🍎🍎 + 🍎🍎🍎🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 151,
+      "question": "What is 0 + 7?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Adding 0 to 7 gives 7. For example, 0 + 🍊🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 152,
+      "question": "What is 4 + 8?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Adding 4 to 8 gives 12. For example, 🍏🍏🍏🍏 + 🍏🍏🍏🍏🍏🍏🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 153,
+      "question": "What is 6 + 9?",
+      "type": "open-ended",
+      "answer": "15",
+      "solution": [
+        "Adding 6 to 9 gives 15. For example, 🍓🍓🍓🍓🍓🍓 + 🍓🍓🍓🍓🍓🍓🍓🍓🍓 = 🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 154,
+      "question": "What is 4 + 1?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Adding 4 to 1 gives 5. For example, 🍎🍎🍎🍎 + 🍎 = 🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 155,
+      "question": "What is 1 + 9?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Adding 1 to 9 gives 10. For example, 🌸 + 🌸🌸🌸🌸🌸🌸🌸🌸🌸 = 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 156,
+      "question": "What is 4 + 7?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 4 to 7 gives 11. For example, 🟣🟣🟣🟣 + 🟣🟣🟣🟣🟣🟣🟣 = 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 157,
+      "question": "What is 0 + 2?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Adding 0 to 2 gives 2. For example,  0 + 🍎🍎 = 🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 158,
+      "question": "What is 3 + 0?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Adding 3 to 0 gives 3. For example, 🌸🌸🌸 + 0 = 🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 159,
+      "question": "What is 2 + 2?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Adding 2 to 2 gives 4. For example, 🍋🍋 + 🍋🍋 = 🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 160,
+      "question": "What is 1 + 3?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Adding 1 to 3 gives 4. For example, 🍓 + 🍓🍓🍓 = 🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 161,
+      "question": "What is 8 + 6?",
+      "type": "open-ended",
+      "answer": "14",
+      "solution": [
+        "Adding 8 to 6 gives 14. For example, 🍎🍎🍎🍎🍎🍎🍎🍎 + 🍎🍎🍎🍎🍎🍎 = 🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 162,
+      "question": "What is 7 + 6?",
+      "type": "open-ended",
+      "answer": "13",
+      "solution": [
+        "Adding 7 to 6 gives 13. For example, 🍏🍏🍏🍏🍏🍏🍏 + 🍏🍏🍏🍏🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 163,
+      "question": "What is 0 + 4?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Adding 0 to 4 gives 4. For example, 0 + 🍏🍏🍏🍏 = 🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 164,
+      "question": "What is 9 + 2?",
+      "type": "open-ended",
+      "answer": "11",
+      "solution": [
+        "Adding 9 to 2 gives 11. For example, 🍏🍏🍏🍏🍏🍏🍏🍏🍏 + 🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 165,
+      "question": "What is 7 + 7?",
+      "type": "open-ended",
+      "answer": "14",
+      "solution": [
+        "Adding 7 to 7 gives 14. For example, 🍊🍊🍊🍊🍊🍊🍊 + 🍊🍊🍊🍊🍊🍊🍊 = 🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 166,
+      "question": "What is 3 + 6?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 3 to 6 gives 9. For example, 🍏🍏🍏 + 🍏🍏🍏🍏🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 167,
+      "question": "What is 0 + 8?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Adding 0 to 8 gives 8. For example, 0 + 🟢🟢🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 168,
+      "question": "What is 4 + 5?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Adding 4 to 5 gives 9. For example, 🌸🌸🌸🌸 + 🌸🌸🌸🌸🌸 = 🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 169,
+      "question": "What is 0 + 3?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Adding 0 to 3 gives 3."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 170,
+      "question": "What is 7 - 4?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 4 from 7 gives 3. For example, 🍏🍏🍏🍏🍏🍏🍏 - 🍏🍏🍏🍏 = 🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 171,
+      "question": "What is 2 - 0?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Subtracting 0 from 2 gives 2. For example, 🍏🍏 - 0 = 🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 172,
+      "question": "What is 8 - 1?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Subtracting 1 from 8 gives 7. For example, 🍎🍎🍎🍎🍎🍎🍎🍎 - 🍎 = 🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 173,
+      "question": "What is 8 - 6?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Subtracting 6 from 8 gives 2. For example, 🟢🟢🟢🟢🟢🟢🟢🟢 - 🟢🟢🟢🟢🟢🟢 = 🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 174,
+      "question": "What is 9 - 3?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Subtracting 3 from 9 gives 6. For example, 🟢🟢🟢🟢🟢🟢🟢🟢🟢 - 🟢🟢🟢 = 🟢🟢🟢🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 175,
+      "question": "What is 6 - 5?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Subtracting 5 from 6 gives 1. For example, 🍓🍓🍓🍓🍓🍓 - 🍓🍓🍓🍓🍓 = 🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 176,
+      "question": "What is 1 - 0?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Subtracting 0 from 1 gives 1. For example, 🍏 - 0 = 🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 177,
+      "question": "What is 5 - 2?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 2 from 5 gives 3. For example, 🌸🌸🌸🌸🌸 - 🌸🌸 = 🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 178,
+      "question": "What is 7 - 5?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Subtracting 5 from 7 gives 2. For example, 🍎🍎🍎🍎🍎🍎🍎 - 🍎🍎🍎🍎🍎 = 🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 179,
+      "question": "What is 6 - 3?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 3 from 6 gives 3. For example, 🥭🥭🥭🥭🥭🥭 - 🥭🥭🥭 = 🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 180,
+      "question": "What is 3 - 0?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 0 from 3 gives 3. For example, 🟢🟢🟢 - 0 = 🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 181,
+      "question": "What is 6 - 2?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Subtracting 2 from 6 gives 4. For example, 🥭🥭🥭🥭🥭🥭 - 🥭🥭 = 🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 182,
+      "question": "What is 6 - 0?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Subtracting 0 from 6 gives 6. For example, 🍋🍋🍋🍋🍋🍋 - 0 = 🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 183,
+      "question": "What is 8 - 4?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Subtracting 4 from 8 gives 4. For example, 🍎🍎🍎🍎🍎🍎🍎🍎 - 🍎🍎🍎🍎 = 🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 184,
+      "question": "What is 3 - 2?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Subtracting 2 from 3 gives 1. For example, 🍎🍎🍎 - 🍎🍎 = 🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 185,
+      "question": "What is 8 - 5?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 5 from 8 gives 3. For example, 🥭🥭🥭🥭🥭🥭🥭🥭 - 🥭🥭🥭🥭🥭 = 🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 186,
+      "question": "What is 6 - 4?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Subtracting 4 from 6 gives 2. For example, 🟢🟢🟢🟢🟢🟢 - 🟢🟢🟢🟢 = 🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 187,
+      "question": "What is 9 - 6?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Subtracting 6 from 9 gives 3. For example, 🟢🟢🟢🟢🟢🟢🟢🟢🟢 - 🟢🟢🟢🟢🟢🟢 = 🟢🟢🟢."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 188,
+      "question": "What is 9 - 4?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Subtracting 4 from 9 gives 5. For example, 🟣🟣🟣🟣🟣🟣🟣🟣🟣 - 🟣🟣🟣🟣 = 🟣🟣🟣🟣🟣."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 189,
+      "question": "What is 2 - 1?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Subtracting 1 from 2 gives 1. For example, 🍊🍊 - 🍊 = 🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 190,
+      "question": "What is 7 - 3?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Subtracting 3 from 7 gives 4. For example, 🍓🍓🍓🍓🍓🍓🍓 - 🍓🍓🍓 = 🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 191,
+      "question": "What is 9 - 2?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Subtracting 2 from 9 gives 7. For example, 🍏🍏🍏🍏🍏🍏🍏🍏🍏 - 🍏🍏 = 🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 192,
+      "question": "What is 8 - 2?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Subtracting 2 from 8 gives 6. For example, 🌸🌸🌸🌸🌸🌸🌸🌸 - 🌸🌸 = 🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 193,
+      "question": "What is 1 * 7?",
+      "type": "open-ended",
+      "answer": "7",
+      "solution": [
+        "Multiplying 1 by 7 gives 7."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 194,
+      "question": "What is 2 * 2?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Multiplying 2 by 2 gives 4."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 195,
+      "question": "What is 0 * 8?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 0 by 8 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 196,
+      "question": "What is 9 * 7?",
+      "type": "open-ended",
+      "answer": "63",
+      "solution": [
+        "Multiplying 9 by 7 gives 63."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 197,
+      "question": "What is 1 * 5?",
+      "type": "open-ended",
+      "answer": "5",
+      "solution": [
+        "Multiplying 1 by 5 gives 5."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 198,
+      "question": "What is 4 * 9?",
+      "type": "open-ended",
+      "answer": "36",
+      "solution": [
+        "Multiplying 4 by 9 gives 36."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 199,
+      "question": "What is 0 * 6?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 0 by 6 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 200,
+      "question": "What is 7 * 3?",
+      "type": "open-ended",
+      "answer": "21",
+      "solution": [
+        "Multiplying 7 by 3 gives 21."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 201,
+      "question": "What is 1 * 1?",
+      "type": "open-ended",
+      "answer": "1",
+      "solution": [
+        "Multiplying 1 by 1 gives 1."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 202,
+      "question": "What is 5 * 3?",
+      "type": "open-ended",
+      "answer": "15",
+      "solution": [
+        "Multiplying 5 by 3 gives 15."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 203,
+      "question": "What is 4 * 5?",
+      "type": "open-ended",
+      "answer": "20",
+      "solution": [
+        "Multiplying 4 by 5 gives 20."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 204,
+      "question": "What is 6 * 8?",
+      "type": "open-ended",
+      "answer": "48",
+      "solution": [
+        "Multiplying 6 by 8 gives 48."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 205,
+      "question": "What is 1 * 9?",
+      "type": "open-ended",
+      "answer": "9",
+      "solution": [
+        "Multiplying 1 by 9 gives 9."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 206,
+      "question": "What is 7 * 6?",
+      "type": "open-ended",
+      "answer": "42",
+      "solution": [
+        "Multiplying 7 by 6 gives 42."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 207,
+      "question": "What is 2 * 9?",
+      "type": "open-ended",
+      "answer": "18",
+      "solution": [
+        "Multiplying 2 by 9 gives 18."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 208,
+      "question": "What is 2 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 2 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 209,
+      "question": "What is 5 * 9?",
+      "type": "open-ended",
+      "answer": "45",
+      "solution": [
+        "Multiplying 5 by 9 gives 45."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 210,
+      "question": "What is 8 * 1?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Multiplying 8 by 1 gives 8."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 211,
+      "question": "What is 4 * 8?",
+      "type": "open-ended",
+      "answer": "32",
+      "solution": [
+        "Multiplying 4 by 8 gives 32."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 212,
+      "question": "What is 9 * 3?",
+      "type": "open-ended",
+      "answer": "27",
+      "solution": [
+        "Multiplying 9 by 3 gives 27."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 213,
+      "question": "What is 7 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 7 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 214,
+      "question": "What is 1 * 4?",
+      "type": "open-ended",
+      "answer": "4",
+      "solution": [
+        "Multiplying 1 by 4 gives 4."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 215,
+      "question": "What is 3 * 2?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Multiplying 3 by 2 gives 6."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 216,
+      "question": "What is 3 * 8?",
+      "type": "open-ended",
+      "answer": "24",
+      "solution": [
+        "Multiplying 3 by 8 gives 24."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 217,
+      "question": "What is 5 * 7?",
+      "type": "open-ended",
+      "answer": "35",
+      "solution": [
+        "Multiplying 5 by 7 gives 35."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 218,
+      "question": "What is 8 * 5?",
+      "type": "open-ended",
+      "answer": "40",
+      "solution": [
+        "Multiplying 8 by 5 gives 40."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 219,
+      "question": "What is 4 * 2?",
+      "type": "open-ended",
+      "answer": "8",
+      "solution": [
+        "Multiplying 4 by 2 gives 8."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 220,
+      "question": "What is 1 * 3?",
+      "type": "open-ended",
+      "answer": "3",
+      "solution": [
+        "Multiplying 1 by 3 gives 3."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 221,
+      "question": "What is 2 * 6?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Multiplying 2 by 6 gives 12."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 222,
+      "question": "What is 7 * 7?",
+      "type": "open-ended",
+      "answer": "49",
+      "solution": [
+        "Multiplying 7 by 7 gives 49."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 223,
+      "question": "What is 9 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 9 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 224,
+      "question": "What is 7 * 2?",
+      "type": "open-ended",
+      "answer": "14",
+      "solution": [
+        "Multiplying 7 by 2 gives 14."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 225,
+      "question": "What is 1 * 6?",
+      "type": "open-ended",
+      "answer": "6",
+      "solution": [
+        "Multiplying 1 by 6 gives 6."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 226,
+      "question": "What is 0 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 0 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 227,
+      "question": "What is 2 * 1?",
+      "type": "open-ended",
+      "answer": "2",
+      "solution": [
+        "Multiplying 2 by 1 gives 2."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 228,
+      "question": "What is 3 * 6?",
+      "type": "open-ended",
+      "answer": "18",
+      "solution": [
+        "Multiplying 3 by 6 gives 18."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 229,
+      "question": "What is 0 * 1?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 0 by 1 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 230,
+      "question": "What is 0 * 3?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 0 by 3 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 231,
+      "question": "What is 8 * 2?",
+      "type": "open-ended",
+      "answer": "16",
+      "solution": [
+        "Multiplying 8 by 2 gives 16."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 232,
+      "question": "What is 5 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 5 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 233,
+      "question": "What is 7 * 4?",
+      "type": "open-ended",
+      "answer": "28",
+      "solution": [
+        "Multiplying 7 by 4 gives 28."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 234,
+      "question": "What is 6 * 9?",
+      "type": "open-ended",
+      "answer": "54",
+      "solution": [
+        "Multiplying 6 by 9 gives 54."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 235,
+      "question": "What is 6 * 5?",
+      "type": "open-ended",
+      "answer": "30",
+      "solution": [
+        "Multiplying 6 by 5 gives 30."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 236,
+      "question": "What is 2 * 5?",
+      "type": "open-ended",
+      "answer": "10",
+      "solution": [
+        "Multiplying 2 by 5 gives 10."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 237,
+      "question": "What is 9 * 9?",
+      "type": "open-ended",
+      "answer": "81",
+      "solution": [
+        "Multiplying 9 by 9 gives 81."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 238,
+      "question": "What is 5 * 5?",
+      "type": "open-ended",
+      "answer": "25",
+      "solution": [
+        "Multiplying 5 by 5 gives 25."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 239,
+      "question": "What is 4 * 6?",
+      "type": "open-ended",
+      "answer": "24",
+      "solution": [
+        "Multiplying 4 by 6 gives 24."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 240,
+      "question": "What is 7 * 8?",
+      "type": "open-ended",
+      "answer": "56",
+      "solution": [
+        "Multiplying 7 by 8 gives 56."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 241,
+      "question": "What is 4 * 0?",
+      "type": "open-ended",
+      "answer": "0",
+      "solution": [
+        "Multiplying 4 by 0 gives 0."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
+    },
+    {
+      "id": 242,
+      "question": "What is 4 * 3?",
+      "type": "open-ended",
+      "answer": "12",
+      "solution": [
+        "Multiplying 4 by 3 gives 12."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Arithmetic",
+        "Math Reasoning"
+      ]
     }
-  ]
+]
+
 
