@@ -4291,7 +4291,3425 @@
         "Arithmetic",
         "Math Reasoning"
       ]
+    },
+    {
+      "id": 243,
+      "question": "Which is less 🥭🥭🥭 or 🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭",
+      "solution": [
+        "We are comparing the given groups by counting the items in them.",
+        "🥭🥭🥭 has 3 mangoes.",
+        "🍎🍎🍎🍎 has 4 apples.",
+        "As 3 comes before 4 on the number line, 🥭🥭🥭 is less than 🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 244,
+      "question": "Which is more 🍊🍊🍊🍊 or 🍊🍊🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊🍊🍊🍊 has 4 oranges.",
+        "🍊🍊🍊🍊🍊🍊🍊🍊 has 8 oranges.",
+        "Since 8 is greater than 4, 🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 245,
+      "question": "Which is less 🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏?",
+      "type": "open-ended",
+      "answer": "🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏 has 8 green apples.",
+        "🍏 has 1 green apple.",
+        "Because 1 is smaller than 8, 🍏 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 246,
+      "question": "Which is less 🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "🍎🍎🍎🍎🍎🍎 has 6 apples.",
+        "As 5 is less than 6, 🍎🍎🍎🍎🍎 is less than 🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 247,
+      "question": "Which is more 🥭🥭🥭🥭 or 🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "🥭 has 1 mango.",
+        "As 4 comes after 1 on the number line, 🥭🥭🥭🥭 is more than 🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 248,
+      "question": "Which is less 🍏🍏 or 🍏?",
+      "type": "open-ended",
+      "answer": "🍏",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍏🍏 has 2 green apples.",
+        "🍏 has 1 green apple.",
+        "As 1 is less than 2, 🍏 is less than 🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 249,
+      "question": "Which is more 🍎🍎🍎🍎🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎🍎🍎🍎🍎 has 9 apples.",
+        "🍎🍎🍎🍎🍎🍎 has 6 apples.",
+        "Since 9 is greater than 6, 🍎🍎🍎🍎🍎🍎🍎🍎🍎 is more than 🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 250,
+      "question": "Which is less 🍐 or 🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐 has 1 pear.",
+        "🍐🍐🍐🍐🍐 has 5 pears.",
+        "As 1 is less than 5, 🍐 is less than 🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 251,
+      "question": "Which is less 🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍓🍓 has 2 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "As 2 is less than 8, 🍓🍓 is less than 🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 252,
+      "question": "Which is less 🌸🌸🌸 or 🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸 has 3 flowers.",
+        "🌸🌸 has 2 flowers.",
+        "Because 2 is smaller than 3, 🌸🌸 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 253,
+      "question": "Which is more 🥝🥝 or 🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥝🥝 has 2 kiwis.",
+        "🥝🥝🥝🥝 has 4 kiwis.",
+        "Since 4 is greater than 2, 🥝🥝🥝🥝 is more than 🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 254,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "Since 4 comes before 7 on the number line, 🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 255,
+      "question": "Which is more 🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐 has 3 pears.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "Because 6 is larger than 3, 🍐🍐🍐🍐🍐🍐 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 256,
+      "question": "Which is more 🍍🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍 has 4 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍🍍 has 9 pineapples.",
+        "As 9 comes after 4 on the number line, 🍍🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 257,
+      "question": "Which is less 🍐🍐🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐🍐 has 9 pears.",
+        "Since 7 comes before 9 on the number line, 🍐🍐🍐🍐🍐🍐🍐 is less than 🍐🍐🍐🍐🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 258,
+      "question": "Which is more 🍈 or 🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍈 has 1 melon.",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "As 6 comes after 1 on the number line, 🍈🍈🍈🍈🍈🍈 is more than 🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 259,
+      "question": "Which is less 🍋🍋🍋🍋🍋🍋🍋🍋 or 🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍋🍋🍋🍋🍋🍋🍋🍋 has 8 lemons.",
+        "🍋🍋🍋 has 3 lemons.",
+        "Because 3 is smaller than 8, 🍋🍋🍋 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 260,
+      "question": "Which is less 🍎🍎🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎🍎🍎 has 7 apples.",
+        "🍎🍎🍎🍎🍎🍎 has 6 apples.",
+        "As 6 is less than 7, 🍎🍎🍎🍎🍎🍎 is less than 🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 261,
+      "question": "Which is less 🍈 or 🍈🍈🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈 has 1 melon.",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "Since 1 comes before 9 on the number line, 🍈 is less than 🍈🍈🍈🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 262,
+      "question": "Which is more 🍏🍏🍏🍏🍏 or 🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏🍏🍏 has 5 green apples.",
+        "🍏🍏🍏 has 3 green apples.",
+        "Since 5 is greater than 3, 🍏🍏🍏🍏🍏 is more than 🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 263,
+      "question": "Which is less 🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓 has 3 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "Because 3 is smaller than 8, 🍓🍓🍓 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 264,
+      "question": "Which is more 🍈 or 🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈 has 1 melon.",
+        "🍈🍈🍈🍈🍈 has 5 melons.",
+        "As 5 comes after 1 on the number line, 🍈🍈🍈🍈🍈 is more than 🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 265,
+      "question": "Which is less 🍊🍊🍊 or 🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊🍊 has 3 oranges.",
+        "🍊🍊 has 2 oranges.",
+        "As 2 is less than 3, 🍊🍊 is less than 🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 266,
+      "question": "Which is more 🥝🥝🥝🥝🥝🥝🥝🥝 or 🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝🥝🥝🥝🥝",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥝🥝🥝🥝🥝🥝🥝🥝 has 8 kiwis.",
+        "🥝 has 1 kiwi.",
+        "As 8 comes after 1 on the number line, 🥝🥝🥝🥝🥝🥝🥝🥝 is more than 🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 267,
+      "question": "Which is less 🍊🍊🍊 or 🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍊🍊🍊 has 3 oranges.",
+        "🍊🍊🍊🍊🍊🍊 has 6 oranges.",
+        "Because 3 is smaller than 6, 🍊🍊🍊 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 268,
+      "question": "Which is less 🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸 has 3 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸🌸 has 9 flowers.",
+        "Because 3 is smaller than 9, 🌸🌸🌸 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 269,
+      "question": "Which is more 🍋 or 🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋 has 1 lemon.",
+        "🍋🍋 has 2 lemons.",
+        "Because 2 is larger than 1, 🍋🍋 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 270,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭 or 🥭?",
+      "type": "open-ended",
+      "answer": "🥭",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "🥭 has 1 mango.",
+        "As 1 is less than 7, 🥭 is less than 🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 271,
+      "question": "Which is more 🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸 has 8 flowers.",
+        "Since 8 is greater than 5, 🌸🌸🌸🌸🌸🌸🌸🌸 is more than 🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 272,
+      "question": "Which is less 🍈🍈🍈 or 🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈🍈🍈 has 3 melons.",
+        "🍈🍈🍈🍈 has 4 melons.",
+        "Because 3 is smaller than 4, 🍈🍈🍈 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 273,
+      "question": "Which is less 🥝🥝🥝🥝🥝🥝🥝🥝 or 🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥝🥝🥝🥝🥝🥝🥝🥝 has 8 kiwis.",
+        "🥝🥝 has 2 kiwis.",
+        "Since 2 comes before 8 on the number line, 🥝🥝 is less than 🥝🥝🥝🥝🥝🥝🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 274,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭 has 8 mangoes.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "As 4 is less than 8, 🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 275,
+      "question": "Which is less 🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸🌸 has 9 flowers.",
+        "As 5 is less than 9, 🌸🌸🌸🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 276,
+      "question": "Which is less 🥭🥭🥭🥭🥭 or 🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭 has 5 mangoes.",
+        "🥭🥭🥭 has 3 mangoes.",
+        "Because 3 is smaller than 5, 🥭🥭🥭 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 277,
+      "question": "Which is more 🍋🍋🍋🍋🍋 or 🍋🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍋🍋🍋🍋🍋 has 5 lemons.",
+        "🍋🍋🍋🍋🍋🍋🍋 has 7 lemons.",
+        "Because 7 is larger than 5, 🍋🍋🍋🍋🍋🍋🍋 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 278,
+      "question": "Which is more 🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓🍓🍓🍓🍓🍓 has 7 strawberries.",
+        "🍓🍓🍓🍓 has 4 strawberries.",
+        "Because 7 is larger than 4, 🍓🍓🍓🍓🍓🍓🍓 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 279,
+      "question": "Which is more 🍊 or 🍊🍊🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊 has 1 orange.",
+        "🍊🍊🍊🍊🍊🍊🍊🍊 has 8 oranges.",
+        "As 8 comes after 1 on the number line, 🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 280,
+      "question": "Which is less 🍏🍏🍏 or 🍏🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍏🍏🍏 has 3 green apples.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏 has 8 green apples.",
+        "Because 3 is smaller than 8, 🍏🍏🍏 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 281,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭 has 8 mangoes.",
+        "Because 7 is smaller than 8, 🥭🥭🥭🥭🥭🥭🥭 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 282,
+      "question": "Which is more 🥭🥭🥭🥭🥭🥭 or 🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭 has 6 mangoes.",
+        "🥭🥭 has 2 mangoes.",
+        "Since 6 is greater than 2, 🥭🥭🥭🥭🥭🥭 is more than 🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 283,
+      "question": "Which is more 🌸🌸🌸🌸 or 🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸 has 4 flowers.",
+        "🌸 has 1 flower.",
+        "Since 4 is greater than 1, 🌸🌸🌸🌸 is more than 🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 284,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍊🍊🍊🍊🍊🍊🍊🍊🍊 has 9 oranges.",
+        "🍊🍊🍊 has 3 oranges.",
+        "As 9 comes after 3 on the number line, 🍊🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 285,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭 has 8 mangoes.",
+        "🥭🥭 has 2 mangoes.",
+        "Since 2 comes before 8 on the number line, 🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 286,
+      "question": "Which is less 🍈🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍈🍈🍈🍈🍈🍈🍈 has 7 melons.",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "As 7 is less than 9, 🍈🍈🍈🍈🍈🍈🍈 is less than 🍈🍈🍈🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 287,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "🍈🍈🍈🍈 has 4 melons.",
+        "Since 6 is greater than 4, 🍈🍈🍈🍈🍈🍈 is more than 🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 288,
+      "question": "Which is more 🍐🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "Since 6 is greater than 4, 🍐🍐🍐🍐🍐🍐 is more than 🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 289,
+      "question": "Which is less 🍋 or 🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋 has 1 lemon.",
+        "🍋🍋🍋🍋🍋 has 5 lemons.",
+        "Since 1 comes before 5 on the number line, 🍋 is less than 🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 290,
+      "question": "Which is less 🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "🍈🍈🍈🍈🍈 has 5 melons.",
+        "Since 5 comes before 6 on the number line, 🍈🍈🍈🍈🍈 is less than 🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 291,
+      "question": "Which is more 🍋🍋 or 🍋🍋🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍋🍋 has 2 lemons.",
+        "🍋🍋🍋🍋🍋🍋🍋🍋 has 8 lemons.",
+        "As 8 comes after 2 on the number line, 🍋🍋🍋🍋🍋🍋🍋🍋 is more than 🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 292,
+      "question": "Which is less 🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓 has 5 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓🍓 has 9 strawberries.",
+        "Because 5 is smaller than 9, 🍓🍓🍓🍓🍓 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 293,
+      "question": "Which is less 🍓🍓🍓🍓 or 🍓?",
+      "type": "open-ended",
+      "answer": "🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓🍓🍓 has 4 strawberries.",
+        "🍓 has 1 strawberry.",
+        "Because 1 is smaller than 4, 🍓 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 294,
+      "question": "Which is less 🍋🍋🍋 or 🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍋🍋🍋 has 3 lemons.",
+        "🍋🍋🍋🍋🍋🍋 has 6 lemons.",
+        "Since 3 comes before 6 on the number line, 🍋🍋🍋 is less than 🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 295,
+      "question": "Which is less 🌸🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸🌸🌸🌸 has 7 flowers.",
+        "🌸🌸🌸 has 3 flowers.",
+        "As 3 is less than 7, 🌸🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 296,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "🍈🍈🍈🍈🍈🍈🍈 has 7 melons.",
+        "Since 7 is greater than 6, 🍈🍈🍈🍈🍈🍈🍈 is more than 🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 297,
+      "question": "Which is less 🍋 or 🍋🍋🍋🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍋 has 1 lemon.",
+        "🍋🍋🍋🍋🍋🍋🍋🍋🍋 has 9 lemons.",
+        "As 1 is less than 9, 🍋 is less than 🍋🍋🍋🍋🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 298,
+      "question": "Which is less 🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊🍊🍊🍊🍊🍊🍊 has 7 oranges.",
+        "🍊🍊🍊 has 3 oranges.",
+        "Because 3 is smaller than 7, 🍊🍊🍊 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 299,
+      "question": "Which is less 🍊🍊 or 🍊🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊 has 2 oranges.",
+        "🍊🍊🍊🍊🍊🍊🍊 has 7 oranges.",
+        "Because 2 is smaller than 7, 🍊🍊 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 300,
+      "question": "Which is more 🍍 or 🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍 has 1 pineapple.",
+        "🍍🍍🍍 has 3 pineapples.",
+        "Because 3 is larger than 1, 🍍🍍🍍 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 301,
+      "question": "Which is more 🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈🍈🍈🍈🍈 has 5 melons.",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "As 9 comes after 5 on the number line, 🍈🍈🍈🍈🍈🍈🍈🍈🍈 is more than 🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 302,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭🥭🥭🥭🥭🥭🥭 has 9 mangoes.",
+        "🥭🥭🥭🥭🥭🥭 has 6 mangoes.",
+        "As 6 is less than 9, 🥭🥭🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 303,
+      "question": "Which is less 🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐🍐 has 5 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "Because 5 is smaller than 7, 🍐🍐🍐🍐🍐 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 304,
+      "question": "Which is less 🍏 or 🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏 has 1 green apple.",
+        "🍏🍏🍏🍏🍏🍏🍏 has 7 green apples.",
+        "Because 1 is smaller than 7, 🍏 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 305,
+      "question": "Which is less 🥭🥭 or 🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭 has 2 mangoes.",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "Since 2 comes before 7 on the number line, 🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 306,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍍🍍🍍🍍🍍🍍 has 6 pineapples.",
+        "🍍🍍🍍 has 3 pineapples.",
+        "Since 6 is greater than 3, 🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 307,
+      "question": "Which is more 🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸🌸🌸🌸🌸🌸 has 6 flowers.",
+        "Since 6 is greater than 5, 🌸🌸🌸🌸🌸🌸 is more than 🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 308,
+      "question": "Which is more 🥭 or 🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭 has 1 mango.",
+        "🥭🥭 has 2 mangoes.",
+        "Because 2 is larger than 1, 🥭🥭 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 309,
+      "question": "Which is less 🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "Because 4 is smaller than 7, 🍐🍐🍐🍐 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 310,
+      "question": "Which is less 🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍓🍓🍓🍓🍓🍓 has 6 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓🍓 has 9 strawberries.",
+        "Because 6 is smaller than 9, 🍓🍓🍓🍓🍓🍓 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 311,
+      "question": "Which is more 🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐 has 8 pears.",
+        "Because 8 is larger than 4, 🍐🍐🍐🍐🍐🍐🍐🍐 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 312,
+      "question": "Which is more 🍋🍋🍋🍋🍋🍋🍋🍋 or 🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋🍋🍋🍋🍋🍋🍋 has 8 lemons.",
+        "🍋 has 1 lemon.",
+        "Since 8 is greater than 1, 🍋🍋🍋🍋🍋🍋🍋🍋 is more than 🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 313,
+      "question": "Which is more 🍊🍊 or 🍊🍊🍊🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍊🍊 has 2 oranges.",
+        "🍊🍊🍊🍊🍊🍊🍊🍊🍊 has 9 oranges.",
+        "Since 9 is greater than 2, 🍊🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 314,
+      "question": "Which is more 🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐🍐 has 9 pears.",
+        "As 9 comes after 4 on the number line, 🍐🍐🍐🍐🍐🍐🍐🍐🍐 is more than 🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 315,
+      "question": "Which is less 🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🌸🌸 has 2 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸🌸 has 9 flowers.",
+        "As 2 is less than 9, 🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 316,
+      "question": "Which is less 🍓🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓 has 7 strawberries.",
+        "As 7 is less than 8, 🍓🍓🍓🍓🍓🍓🍓 is less than 🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 317,
+      "question": "Which is less 🍐 or 🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍐 has 1 pear.",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "As 1 is less than 4, 🍐 is less than 🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 318,
+      "question": "Which is less 🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸🌸🌸🌸 has 4 flowers.",
+        "As 4 is less than 5, 🌸🌸🌸🌸 is less than 🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 319,
+      "question": "Which is more 🍐🍐🍐🍐🍐🍐🍐🍐 or 🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐 has 8 pears.",
+        "🍐 has 1 pear.",
+        "As 8 comes after 1 on the number line, 🍐🍐🍐🍐🍐🍐🍐🍐 is more than 🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 320,
+      "question": "Which is more 🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭 has 6 mangoes.",
+        "🥭🥭🥭 has 3 mangoes.",
+        "As 6 comes after 3 on the number line, 🥭🥭🥭🥭🥭🥭 is more than 🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 321,
+      "question": "Which is less 🥝🥝🥝🥝 or 🥝🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥝🥝🥝🥝 has 4 kiwis.",
+        "🥝🥝🥝🥝🥝 has 5 kiwis.",
+        "Because 4 is smaller than 5, 🥝🥝🥝🥝 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 322,
+      "question": "Which is more 🥝🥝🥝🥝🥝🥝🥝🥝🥝 or 🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝🥝🥝🥝🥝🥝",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥝🥝🥝🥝🥝🥝🥝🥝🥝 has 9 kiwis.",
+        "🥝🥝🥝 has 3 kiwis.",
+        "Because 9 is larger than 3, 🥝🥝🥝🥝🥝🥝🥝🥝🥝 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 323,
+      "question": "Which is less 🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍🍍🍍 has 6 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍 has 8 pineapples.",
+        "As 6 is less than 8, 🍍🍍🍍🍍🍍🍍 is less than 🍍🍍🍍🍍🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 324,
+      "question": "Which is less 🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊🍊🍊🍊🍊 has 5 oranges.",
+        "🍊🍊🍊🍊 has 4 oranges.",
+        "Because 4 is smaller than 5, 🍊🍊🍊🍊 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 325,
+      "question": "Which is more 🍐🍐🍐🍐🍐🍐 or 🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "🍐 has 1 pear.",
+        "Since 6 is greater than 1, 🍐🍐🍐🍐🍐🍐 is more than 🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 326,
+      "question": "Which is less 🥝🥝🥝🥝🥝🥝 or 🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥝🥝🥝🥝🥝🥝 has 6 kiwis.",
+        "🥝🥝🥝🥝 has 4 kiwis.",
+        "As 4 is less than 6, 🥝🥝🥝🥝 is less than 🥝🥝🥝🥝🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 327,
+      "question": "Which is less 🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐 has 4 pears.",
+        "🍐🍐🍐🍐🍐 has 5 pears.",
+        "Since 4 comes before 5 on the number line, 🍐🍐🍐🍐 is less than 🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 328,
+      "question": "Which is less 🍎🍎🍎 or 🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎 has 3 apples.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "Because 3 is smaller than 5, 🍎🍎🍎 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 329,
+      "question": "Which is more 🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭 has 6 mangoes.",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "Since 7 is greater than 6, 🥭🥭🥭🥭🥭🥭🥭 is more than 🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 330,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "🍈🍈🍈🍈 has 4 melons.",
+        "Because 9 is larger than 4, 🍈🍈🍈🍈🍈🍈🍈🍈🍈 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 331,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍🍍🍍🍍 or 🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍🍍🍍🍍🍍🍍 has 9 pineapples.",
+        "🍍🍍 has 2 pineapples.",
+        "Since 9 is greater than 2, 🍍🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 332,
+      "question": "Which is more 🍎🍎🍎 or 🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎 has 3 apples.",
+        "🍎 has 1 apple.",
+        "As 3 comes after 1 on the number line, 🍎🍎🍎 is more than 🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 333,
+      "question": "Which is less 🍐🍐🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "Because 6 is smaller than 7, 🍐🍐🍐🍐🍐🍐 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 334,
+      "question": "Which is more 🍈🍈🍈🍈 or 🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈🍈🍈🍈 has 4 melons.",
+        "🍈 has 1 melon.",
+        "Because 4 is larger than 1, 🍈🍈🍈🍈 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 335,
+      "question": "Which is less 🍍 or 🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍 has 1 pineapple.",
+        "🍍🍍🍍🍍🍍🍍 has 6 pineapples.",
+        "As 1 is less than 6, 🍍 is less than 🍍🍍🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 336,
+      "question": "Which is more 🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓🍓🍓 has 7 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓🍓 has 9 strawberries.",
+        "Because 9 is larger than 7, 🍓🍓🍓🍓🍓🍓🍓🍓🍓 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 337,
+      "question": "Which is more 🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "🍎🍎🍎🍎🍎🍎🍎🍎🍎 has 9 apples.",
+        "Since 9 is greater than 5, 🍎🍎🍎🍎🍎🍎🍎🍎🍎 is more than 🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 338,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭 has 7 mangoes.",
+        "🥭🥭🥭🥭🥭 has 5 mangoes.",
+        "Because 5 is smaller than 7, 🥭🥭🥭🥭🥭 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 339,
+      "question": "Which is less 🍍 or 🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍍 has 1 pineapple.",
+        "🍍🍍🍍🍍🍍 has 5 pineapples.",
+        "Since 1 comes before 5 on the number line, 🍍 is less than 🍍🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 340,
+      "question": "Which is more 🍏🍏 or 🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏 has 2 green apples.",
+        "🍏🍏🍏 has 3 green apples.",
+        "As 3 comes after 2 on the number line, 🍏🍏🍏 is more than 🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 341,
+      "question": "Which is less 🍏🍏🍏🍏🍏 or 🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏🍏🍏 has 5 green apples.",
+        "🍏🍏🍏🍏🍏🍏🍏 has 7 green apples.",
+        "As 5 is less than 7, 🍏🍏🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 342,
+      "question": "Which is less 🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍍🍍🍍 has 3 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍 has 7 pineapples.",
+        "As 3 is less than 7, 🍍🍍🍍 is less than 🍍🍍🍍🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 343,
+      "question": "Which is less 🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸🌸🌸 has 6 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸 has 7 flowers.",
+        "Since 6 comes before 7 on the number line, 🌸🌸🌸🌸🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 344,
+      "question": "Which is less 🥭🥭🥭🥭 or 🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "🥭🥭 has 2 mangoes.",
+        "Because 2 is smaller than 4, 🥭🥭 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 345,
+      "question": "Which is more 🍓🍓🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓🍓 has 9 strawberries.",
+        "🍓🍓 has 2 strawberries.",
+        "Because 9 is larger than 2, 🍓🍓🍓🍓🍓🍓🍓🍓🍓 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 346,
+      "question": "Which is more 🍍🍍🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍🍍 has 5 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍 has 7 pineapples.",
+        "Because 7 is larger than 5, 🍍🍍🍍🍍🍍🍍🍍 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 347,
+      "question": "Which is less 🍊🍊🍊🍊 or 🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊🍊🍊 has 4 oranges.",
+        "🍊🍊🍊 has 3 oranges.",
+        "As 3 is less than 4, 🍊🍊🍊 is less than 🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 348,
+      "question": "Which is more 🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭🥭🥭 has 5 mangoes.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "Since 5 is greater than 4, 🥭🥭🥭🥭🥭 is more than 🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 349,
+      "question": "Which is less 🍐 or 🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐 has 1 pear.",
+        "🍐🍐 has 2 pears.",
+        "As 1 is less than 2, 🍐 is less than 🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 350,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "🍈🍈🍈 has 3 melons.",
+        "Since 6 is greater than 3, 🍈🍈🍈🍈🍈🍈 is more than 🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 351,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊🍊🍊🍊 or 🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊🍊🍊🍊🍊🍊🍊🍊🍊 has 9 oranges.",
+        "🍊 has 1 orange.",
+        "Since 9 is greater than 1, 🍊🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 352,
+      "question": "Which is less 🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "🍎🍎🍎🍎 has 4 apples.",
+        "As 4 is less than 5, 🍎🍎🍎🍎 is less than 🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 353,
+      "question": "Which is more 🍏🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏🍏🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏🍏 has 9 green apples.",
+        "🍏 has 1 green apple.",
+        "As 9 comes after 1 on the number line, 🍏🍏🍏🍏🍏🍏🍏🍏🍏 is more than 🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 354,
+      "question": "Which is more 🌸🌸🌸🌸🌸 or 🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸🌸 has 2 flowers.",
+        "Since 5 is greater than 2, 🌸🌸🌸🌸🌸 is more than 🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 355,
+      "question": "Which is more 🍋🍋🍋 or 🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋🍋 has 3 lemons.",
+        "🍋🍋 has 2 lemons.",
+        "Because 3 is larger than 2, 🍋🍋🍋 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 356,
+      "question": "Which is less 🍊🍊🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊🍊🍊🍊🍊🍊🍊🍊 has 9 oranges.",
+        "🍊🍊🍊🍊🍊🍊🍊 has 7 oranges.",
+        "As 7 is less than 9, 🍊🍊🍊🍊🍊🍊🍊 is less than 🍊🍊🍊🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 357,
+      "question": "Which is more 🍎🍎🍎🍎🍎🍎🍎🍎 or 🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎🍎🍎🍎🍎🍎 has 8 apples.",
+        "🍎 has 1 apple.",
+        "Because 8 is larger than 1, 🍎🍎🍎🍎🍎🍎🍎🍎 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 358,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍🍍 has 9 pineapples.",
+        "🍍🍍🍍 has 3 pineapples.",
+        "As 9 comes after 3 on the number line, 🍍🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 359,
+      "question": "Which is more 🥝🥝 or 🥝🥝🥝🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝🥝🥝🥝",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥝🥝 has 2 kiwis.",
+        "🥝🥝🥝🥝🥝🥝🥝 has 7 kiwis.",
+        "Because 7 is larger than 2, 🥝🥝🥝🥝🥝🥝🥝 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 360,
+      "question": "Which is less 🥝🥝 or 🥝?",
+      "type": "open-ended",
+      "answer": "🥝",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥝🥝 has 2 kiwis.",
+        "🥝 has 1 kiwi.",
+        "As 1 is less than 2, 🥝 is less than 🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 361,
+      "question": "Which is more 🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "🍎🍎🍎🍎🍎🍎🍎 has 7 apples.",
+        "Because 7 is larger than 5, 🍎🍎🍎🍎🍎🍎🍎 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 362,
+      "question": "Which is less 🍋🍋🍋🍋🍋🍋🍋🍋 or 🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍋🍋🍋🍋🍋🍋🍋🍋 has 8 lemons.",
+        "🍋🍋🍋🍋 has 4 lemons.",
+        "Because 4 is smaller than 8, 🍋🍋🍋🍋 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 363,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍊🍊🍊🍊🍊🍊🍊🍊🍊 has 9 oranges.",
+        "🍊🍊🍊🍊🍊 has 5 oranges.",
+        "As 9 comes after 5 on the number line, 🍊🍊🍊🍊🍊🍊🍊🍊🍊 is more than 🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 364,
+      "question": "Which is more 🍏🍏🍏🍏🍏 or 🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍏🍏🍏🍏🍏 has 5 green apples.",
+        "🍏🍏🍏🍏 has 4 green apples.",
+        "Since 5 is greater than 4, 🍏🍏🍏🍏🍏 is more than 🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 365,
+      "question": "Which is less 🍏🍏🍏 or 🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏 has 3 green apples.",
+        "🍏🍏🍏🍏🍏🍏🍏 has 7 green apples.",
+        "As 3 is less than 7, 🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 366,
+      "question": "Which is more 🍋🍋 or 🍋🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋 has 2 lemons.",
+        "🍋🍋🍋🍋🍋🍋🍋 has 7 lemons.",
+        "Since 7 is greater than 2, 🍋🍋🍋🍋🍋🍋🍋 is more than 🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 367,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍊🍊🍊🍊🍊🍊🍊 has 7 oranges.",
+        "🍊🍊🍊🍊 has 4 oranges.",
+        "Because 7 is larger than 4, 🍊🍊🍊🍊🍊🍊🍊 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 368,
+      "question": "Which is less 🍋🍋 or 🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋 has 2 lemons.",
+        "🍋🍋🍋🍋🍋 has 5 lemons.",
+        "As 2 is less than 5, 🍋🍋 is less than 🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 369,
+      "question": "Which is less 🍋🍋🍋🍋 or 🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋🍋🍋 has 4 lemons.",
+        "🍋🍋🍋🍋🍋 has 5 lemons.",
+        "Since 4 comes before 5 on the number line, 🍋🍋🍋🍋 is less than 🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 370,
+      "question": "Which is more 🍎 or 🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍎 has 1 apple.",
+        "🍎🍎🍎🍎🍎🍎 has 6 apples.",
+        "As 6 comes after 1 on the number line, 🍎🍎🍎🍎🍎🍎 is more than 🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 371,
+      "question": "Which is less 🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭🥭 has 9 mangoes.",
+        "Since 4 comes before 9 on the number line, 🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 372,
+      "question": "Which is less 🍐🍐🍐 or 🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐 has 3 pears.",
+        "🍐🍐 has 2 pears.",
+        "As 2 is less than 3, 🍐🍐 is less than 🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 373,
+      "question": "Which is less 🍐🍐🍐🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐 has 8 pears.",
+        "🍐🍐🍐🍐🍐 has 5 pears.",
+        "As 5 is less than 8, 🍐🍐🍐🍐🍐 is less than 🍐🍐🍐🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 374,
+      "question": "Which is less 🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓 has 2 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓 has 7 strawberries.",
+        "Because 2 is smaller than 7, 🍓🍓 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 375,
+      "question": "Which is more 🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍐🍐🍐 has 3 pears.",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "As 7 comes after 3 on the number line, 🍐🍐🍐🍐🍐🍐🍐 is more than 🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 376,
+      "question": "Which is more 🥝🥝🥝🥝🥝🥝🥝🥝🥝 or 🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝🥝🥝🥝🥝🥝",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥝🥝🥝🥝🥝🥝🥝🥝🥝 has 9 kiwis.",
+        "🥝🥝🥝🥝 has 4 kiwis.",
+        "Since 9 is greater than 4, 🥝🥝🥝🥝🥝🥝🥝🥝🥝 is more than 🥝🥝🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 377,
+      "question": "Which is less 🍐🍐 or 🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐 has 2 pears.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "As 2 is less than 6, 🍐🍐 is less than 🍐🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 378,
+      "question": "Which is more 🍊🍊🍊🍊🍊 or 🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊🍊🍊🍊🍊 has 5 oranges.",
+        "🍊 has 1 orange.",
+        "Because 5 is larger than 1, 🍊🍊🍊🍊🍊 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 379,
+      "question": "Which is more 🍋🍋 or 🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍋🍋 has 2 lemons.",
+        "🍋🍋🍋🍋🍋🍋 has 6 lemons.",
+        "As 6 comes after 2 on the number line, 🍋🍋🍋🍋🍋🍋 is more than 🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 380,
+      "question": "Which is more 🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏🍏🍏🍏",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍏🍏🍏🍏🍏🍏🍏🍏 has 8 green apples.",
+        "🍏🍏 has 2 green apples.",
+        "As 8 comes after 2 on the number line, 🍏🍏🍏🍏🍏🍏🍏🍏 is more than 🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 381,
+      "question": "Which is less 🍋 or 🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋 has 1 lemon.",
+        "🍋🍋🍋 has 3 lemons.",
+        "Because 1 is smaller than 3, 🍋 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 382,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭🥭 has 9 mangoes.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭 has 8 mangoes.",
+        "Since 8 comes before 9 on the number line, 🥭🥭🥭🥭🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 383,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊🍊🍊🍊🍊 has 6 oranges.",
+        "🍊🍊🍊🍊🍊 has 5 oranges.",
+        "Since 6 is greater than 5, 🍊🍊🍊🍊🍊🍊 is more than 🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 384,
+      "question": "Which is less 🍏🍏🍏🍏🍏🍏🍏 or 🍏🍏🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏🍏🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏🍏🍏🍏🍏🍏🍏 has 7 green apples.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏🍏 has 9 green apples.",
+        "Since 7 comes before 9 on the number line, 🍏🍏🍏🍏🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 385,
+      "question": "Which is more 🌸🌸🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸🌸🌸🌸🌸 has 8 flowers.",
+        "🌸🌸🌸 has 3 flowers.",
+        "Because 8 is larger than 3, 🌸🌸🌸🌸🌸🌸🌸🌸 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 386,
+      "question": "Which is less 🍈🍈 or 🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍈🍈 has 2 melons.",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "As 2 is less than 6, 🍈🍈 is less than 🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 387,
+      "question": "Which is more 🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓🍓🍓🍓 has 5 strawberries.",
+        "🍓🍓🍓🍓 has 4 strawberries.",
+        "Since 5 is greater than 4, 🍓🍓🍓🍓🍓 is more than 🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 388,
+      "question": "Which is more 🍊🍊 or 🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊 has 2 oranges.",
+        "🍊🍊🍊🍊 has 4 oranges.",
+        "Because 4 is larger than 2, 🍊🍊🍊🍊 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 389,
+      "question": "Which is less 🍏🍏🍏🍏 or 🍏🍏🍏🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏🍏 has 4 green apples.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏 has 8 green apples.",
+        "Since 4 comes before 8 on the number line, 🍏🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 390,
+      "question": "Which is less 🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍓🍓🍓🍓🍓🍓 has 6 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "Since 6 comes before 8 on the number line, 🍓🍓🍓🍓🍓🍓 is less than 🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 391,
+      "question": "Which is more 🍏🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏🍏🍏🍏🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏🍏 has 9 green apples.",
+        "🍏🍏 has 2 green apples.",
+        "Because 9 is larger than 2, 🍏🍏🍏🍏🍏🍏🍏🍏🍏 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 392,
+      "question": "Which is more 🌸 or 🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🌸 has 1 flower.",
+        "🌸🌸🌸🌸🌸🌸 has 6 flowers.",
+        "Because 6 is larger than 1, 🌸🌸🌸🌸🌸🌸 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 393,
+      "question": "Which is less 🥝🥝 or 🥝🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥝🥝 has 2 kiwis.",
+        "🥝🥝🥝🥝🥝 has 5 kiwis.",
+        "Since 2 comes before 5 on the number line, 🥝🥝 is less than 🥝🥝🥝🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 394,
+      "question": "Which is less 🍋🍋🍋🍋 or 🍋🍋🍋🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍋🍋🍋🍋 has 4 lemons.",
+        "🍋🍋🍋🍋🍋🍋🍋 has 7 lemons.",
+        "Because 4 is smaller than 7, 🍋🍋🍋🍋 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 395,
+      "question": "Which is less 🍎🍎🍎🍎🍎🍎🍎🍎 or 🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍎🍎🍎🍎🍎🍎🍎🍎 has 8 apples.",
+        "🍎🍎 has 2 apples.",
+        "Because 2 is smaller than 8, 🍎🍎 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 396,
+      "question": "Which is more 🍓🍓🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓🍓 has 9 strawberries.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "Because 9 is larger than 8, 🍓🍓🍓🍓🍓🍓🍓🍓🍓 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 397,
+      "question": "Which is less 🍎🍎 or 🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎 has 2 apples.",
+        "🍎🍎🍎🍎🍎 has 5 apples.",
+        "Because 2 is smaller than 5, 🍎🍎 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 398,
+      "question": "Which is more 🥭🥭🥭 or 🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭🥭🥭 has 3 mangoes.",
+        "🥭🥭🥭🥭 has 4 mangoes.",
+        "As 4 comes after 3 on the number line, 🥭🥭🥭🥭 is more than 🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 399,
+      "question": "Which is more 🌸🌸🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸🌸🌸🌸🌸 has 8 flowers.",
+        "🌸🌸🌸🌸 has 4 flowers.",
+        "Since 8 is greater than 4, 🌸🌸🌸🌸🌸🌸🌸🌸 is more than 🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 400,
+      "question": "Which is more 🥭 or 🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥭 has 1 mango.",
+        "🥭🥭🥭🥭🥭 has 5 mangoes.",
+        "As 5 comes after 1 on the number line, 🥭🥭🥭🥭🥭 is more than 🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 401,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭🥭 has 9 mangoes.",
+        "🥭🥭🥭 has 3 mangoes.",
+        "Because 3 is smaller than 9, 🥭🥭🥭 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 402,
+      "question": "Which is less 🍍 or 🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍍 has 1 pineapple.",
+        "🍍🍍 has 2 pineapples.",
+        "Since 1 comes before 2 on the number line, 🍍 is less than 🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 403,
+      "question": "Which is more 🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🌸🌸🌸🌸🌸🌸 has 6 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸 has 8 flowers.",
+        "As 8 comes after 6 on the number line, 🌸🌸🌸🌸🌸🌸🌸🌸 is more than 🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 404,
+      "question": "Which is more 🍋🍋🍋🍋🍋🍋🍋🍋🍋 or 🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋🍋🍋🍋🍋🍋🍋🍋 has 9 lemons.",
+        "🍋🍋🍋🍋 has 4 lemons.",
+        "Since 9 is greater than 4, 🍋🍋🍋🍋🍋🍋🍋🍋🍋 is more than 🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 405,
+      "question": "Which is less 🥭🥭🥭🥭🥭🥭🥭🥭 or 🥭?",
+      "type": "open-ended",
+      "answer": "🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭 has 8 mangoes.",
+        "🥭 has 1 mango.",
+        "As 1 is less than 8, 🥭 is less than 🥭🥭🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 406,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍 has 8 pineapples.",
+        "🍍🍍🍍 has 3 pineapples.",
+        "Since 8 is greater than 3, 🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 407,
+      "question": "Which is more 🌸🌸🌸🌸🌸 or 🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸🌸 has 5 flowers.",
+        "🌸 has 1 flower.",
+        "Because 5 is larger than 1, 🌸🌸🌸🌸🌸 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 408,
+      "question": "Which is less 🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎 has 3 apples.",
+        "🍎🍎🍎🍎🍎🍎🍎 has 7 apples.",
+        "As 3 is less than 7, 🍎🍎🍎 is less than 🍎🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 409,
+      "question": "Which is more 🍍🍍🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍍🍍🍍🍍🍍 has 5 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍🍍 has 9 pineapples.",
+        "As 9 comes after 5 on the number line, 🍍🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 410,
+      "question": "Which is less 🍋 or 🍋🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍋 has 1 lemon.",
+        "🍋🍋🍋🍋 has 4 lemons.",
+        "Since 1 comes before 4 on the number line, 🍋 is less than 🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 411,
+      "question": "Which is more 🍋🍋🍋🍋🍋🍋🍋🍋🍋 or 🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋🍋🍋🍋🍋🍋🍋",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍋🍋🍋🍋🍋🍋🍋🍋🍋 has 9 lemons.",
+        "🍋🍋 has 2 lemons.",
+        "Since 9 is greater than 2, 🍋🍋🍋🍋🍋🍋🍋🍋🍋 is more than 🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 412,
+      "question": "Which is less 🍎 or 🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎 has 1 apple.",
+        "🍎🍎 has 2 apples.",
+        "Because 1 is smaller than 2, 🍎 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 413,
+      "question": "Which is more 🍊 or 🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍊 has 1 orange.",
+        "🍊🍊🍊🍊🍊🍊 has 6 oranges.",
+        "Since 6 is greater than 1, 🍊🍊🍊🍊🍊🍊 is more than 🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 414,
+      "question": "Which is less 🍎🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎🍎🍎🍎 has 6 apples.",
+        "🍎🍎🍎🍎 has 4 apples.",
+        "As 4 is less than 6, 🍎🍎🍎🍎 is less than 🍎🍎🍎🍎🍎🍎."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 415,
+      "question": "Which is more 🍐🍐🍐🍐🍐🍐🍐🍐 or 🍐🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐🍐🍐🍐",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍐🍐🍐🍐🍐🍐🍐🍐 has 8 pears.",
+        "🍐🍐🍐🍐🍐🍐 has 6 pears.",
+        "Since 8 is greater than 6, 🍐🍐🍐🍐🍐🍐🍐🍐 is more than 🍐🍐🍐🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 416,
+      "question": "Which is less 🥭🥭🥭🥭🥭 or 🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥭🥭🥭🥭🥭 has 5 mangoes.",
+        "🥭🥭🥭🥭🥭🥭 has 6 mangoes.",
+        "Since 5 comes before 6 on the number line, 🥭🥭🥭🥭🥭 is less than 🥭🥭🥭🥭🥭🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 417,
+      "question": "Which is less 🍓🍓🍓🍓🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓🍓🍓 has 7 strawberries.",
+        "🍓🍓🍓🍓🍓🍓 has 6 strawberries.",
+        "Because 6 is smaller than 7, 🍓🍓🍓🍓🍓🍓 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 418,
+      "question": "Which is less 🍓🍓🍓🍓🍓🍓🍓🍓 or 🍓?",
+      "type": "open-ended",
+      "answer": "🍓",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍓🍓🍓🍓🍓🍓🍓🍓 has 8 strawberries.",
+        "🍓 has 1 strawberry.",
+        "Since 1 comes before 8 on the number line, 🍓 is less than 🍓🍓🍓🍓🍓🍓🍓🍓."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 419,
+      "question": "Which is less 🥝 or 🥝🥝🥝🥝🥝🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🥝 has 1 kiwi.",
+        "🥝🥝🥝🥝🥝🥝🥝🥝🥝 has 9 kiwis.",
+        "Since 1 comes before 9 on the number line, 🥝 is less than 🥝🥝🥝🥝🥝🥝🥝🥝🥝."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 420,
+      "question": "Which is more 🍍 or 🍍🍍🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍 has 1 pineapple.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍🍍 has 9 pineapples.",
+        "Since 9 is greater than 1, 🍍🍍🍍🍍🍍🍍🍍🍍🍍 is more than 🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 421,
+      "question": "Which is more 🍎🍎🍎🍎🍎🍎🍎🍎🍎 or 🍎🍎🍎🍎🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍎🍎🍎🍎🍎🍎🍎🍎🍎 has 9 apples.",
+        "🍎🍎🍎🍎🍎🍎🍎 has 7 apples.",
+        "Because 9 is larger than 7, 🍎🍎🍎🍎🍎🍎🍎🍎🍎 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 422,
+      "question": "Which is less 🍏🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏🍏 has 9 green apples.",
+        "🍏🍏🍏 has 3 green apples.",
+        "Since 3 comes before 9 on the number line, 🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 423,
+      "question": "Which is less 🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍈🍈🍈🍈🍈 has 5 melons.",
+        "🍈🍈🍈🍈 has 4 melons.",
+        "Since 4 comes before 5 on the number line, 🍈🍈🍈🍈 is less than 🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 424,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "🍈🍈🍈🍈🍈🍈 has 6 melons.",
+        "Because 9 is larger than 6, 🍈🍈🍈🍈🍈🍈🍈🍈🍈 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 425,
+      "question": "Which is more 🍈🍈🍈🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈🍈🍈🍈 has 8 melons.",
+        "🍈🍈🍈🍈🍈🍈🍈🍈🍈 has 9 melons.",
+        "Since 9 is greater than 8, 🍈🍈🍈🍈🍈🍈🍈🍈🍈 is more than 🍈🍈🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 426,
+      "question": "Which is more 🍊🍊🍊🍊🍊🍊🍊 or 🍊🍊🍊🍊🍊🍊?",
+      "type": "open-ended",
+      "answer": "🍊🍊🍊🍊🍊🍊🍊",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍊🍊🍊🍊🍊🍊🍊 has 7 oranges.",
+        "🍊🍊🍊🍊🍊🍊 has 6 oranges.",
+        "As 7 comes after 6 on the number line, 🍊🍊🍊🍊🍊🍊🍊 is more than 🍊🍊🍊🍊🍊🍊."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 427,
+      "question": "Which is more 🍓🍓🍓 or 🍓🍓🍓🍓🍓🍓?",
+      "type": "open-ended",
+      "answer": "🍓🍓🍓🍓🍓🍓",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍓🍓🍓 has 3 strawberries.",
+        "🍓🍓🍓🍓🍓🍓 has 6 strawberries.",
+        "Because 6 is larger than 3, 🍓🍓🍓🍓🍓🍓 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 428,
+      "question": "Which is more 🥭 or 🥭🥭🥭🥭🥭🥭🥭🥭🥭?",
+      "type": "open-ended",
+      "answer": "🥭🥭🥭🥭🥭🥭🥭🥭🥭",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🥭 has 1 mango.",
+        "🥭🥭🥭🥭🥭🥭🥭🥭🥭 has 9 mangoes.",
+        "Since 9 is greater than 1, 🥭🥭🥭🥭🥭🥭🥭🥭🥭 is more than 🥭."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 429,
+      "question": "Which is more 🍈 or 🍈🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈 has 1 melon.",
+        "🍈🍈🍈🍈🍈🍈🍈🍈 has 8 melons.",
+        "Since 8 is greater than 1, 🍈🍈🍈🍈🍈🍈🍈🍈 is more than 🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 430,
+      "question": "Which is less 🍋🍋🍋🍋🍋 or 🍋🍋🍋?",
+      "type": "open-ended",
+      "answer": "🍋🍋🍋",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍋🍋🍋🍋🍋 has 5 lemons.",
+        "🍋🍋🍋 has 3 lemons.",
+        "Since 3 comes before 5 on the number line, 🍋🍋🍋 is less than 🍋🍋🍋🍋🍋."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 431,
+      "question": "Which is less 🌸 or 🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸 has 1 flower.",
+        "🌸🌸🌸 has 3 flowers.",
+        "Because 1 is smaller than 3, 🌸 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 432,
+      "question": "Which is less 🍏🍏🍏🍏🍏🍏🍏🍏 or 🍏🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏🍏🍏🍏🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏🍏🍏🍏🍏🍏🍏🍏 has 8 green apples.",
+        "🍏🍏🍏🍏🍏 has 5 green apples.",
+        "Since 5 comes before 8 on the number line, 🍏🍏🍏🍏🍏 is less than 🍏🍏🍏🍏🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 433,
+      "question": "Which is less 🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🌸🌸🌸🌸 has 4 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸🌸 has 9 flowers.",
+        "Since 4 comes before 9 on the number line, 🌸🌸🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 434,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍🍍🍍🍍 has 7 pineapples.",
+        "🍍🍍🍍🍍 has 4 pineapples.",
+        "As 7 comes after 4 on the number line, 🍍🍍🍍🍍🍍🍍🍍 is more than 🍍🍍🍍🍍."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 435,
+      "question": "Which is less 🍈 or 🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍈 has 1 melon.",
+        "🍈🍈🍈🍈🍈🍈🍈 has 7 melons.",
+        "As 1 is less than 7, 🍈 is less than 🍈🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 436,
+      "question": "Which is less 🌸🌸🌸🌸🌸🌸🌸 or 🌸🌸🌸🌸🌸🌸🌸🌸?",
+      "type": "open-ended",
+      "answer": "🌸🌸🌸🌸🌸🌸🌸",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🌸🌸🌸🌸🌸🌸🌸 has 7 flowers.",
+        "🌸🌸🌸🌸🌸🌸🌸🌸 has 8 flowers.",
+        "Since 7 comes before 8 on the number line, 🌸🌸🌸🌸🌸🌸🌸 is less than 🌸🌸🌸🌸🌸🌸🌸🌸."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 437,
+      "question": "Which is less 🍏 or 🍏🍏🍏🍏?",
+      "type": "open-ended",
+      "answer": "🍏",
+      "solution": [
+        "Let us compare the given groups by counting the items in them.",
+        "🍏 has 1 green apple.",
+        "🍏🍏🍏🍏 has 4 green apples.",
+        "As 1 is less than 4, 🍏 is less than 🍏🍏🍏🍏."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 438,
+      "question": "Which is less 🥝🥝🥝🥝🥝🥝🥝 or 🥝🥝🥝🥝🥝🥝?",
+      "type": "open-ended",
+      "answer": "🥝🥝🥝🥝🥝🥝",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🥝🥝🥝🥝🥝🥝🥝 has 7 kiwis.",
+        "🥝🥝🥝🥝🥝🥝 has 6 kiwis.",
+        "Because 6 is smaller than 7, 🥝🥝🥝🥝🥝🥝 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 439,
+      "question": "Which is more 🍐🍐🍐 or 🍐🍐🍐🍐🍐?",
+      "type": "open-ended",
+      "answer": "🍐🍐🍐🍐🍐",
+      "solution": [
+        "First, we will count the items in the given groups.",
+        "🍐🍐🍐 has 3 pears.",
+        "🍐🍐🍐🍐🍐 has 5 pears.",
+        "Since 5 is greater than 3, 🍐🍐🍐🍐🍐 is more than 🍐🍐🍐."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 440,
+      "question": "Which is less 🍈🍈🍈🍈🍈 or 🍈🍈🍈🍈🍈🍈🍈?",
+      "type": "open-ended",
+      "answer": "🍈🍈🍈🍈🍈",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍈🍈🍈🍈🍈 has 5 melons.",
+        "🍈🍈🍈🍈🍈🍈🍈 has 7 melons.",
+        "Since 5 comes before 7 on the number line, 🍈🍈🍈🍈🍈 is less than 🍈🍈🍈🍈🍈🍈🍈."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 441,
+      "question": "Which is less 🍎🍎🍎🍎 or 🍎🍎🍎?",
+      "type": "open-ended",
+      "answer": "🍎🍎🍎",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍎🍎🍎🍎 has 4 apples.",
+        "🍎🍎🍎 has 3 apples.",
+        "Because 3 is smaller than 4, 🍎🍎🍎 has fewer items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 442,
+      "question": "Which is more 🍍🍍🍍🍍🍍🍍🍍 or 🍍🍍🍍🍍🍍🍍🍍🍍?",
+      "type": "open-ended",
+      "answer": "🍍🍍🍍🍍🍍🍍🍍🍍",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍍🍍🍍🍍🍍🍍🍍 has 7 pineapples.",
+        "🍍🍍🍍🍍🍍🍍🍍🍍 has 8 pineapples.",
+        "Because 8 is larger than 7, 🍍🍍🍍🍍🍍🍍🍍🍍 has more items."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
+    },
+    {
+      "id": 443,
+      "question": "Which is less 🍐🍐🍐🍐🍐🍐🍐 or 🍐?",
+      "type": "open-ended",
+      "answer": "🍐",
+      "solution": [
+        "Counting the items in the groups, we get:",
+        "🍐🍐🍐🍐🍐🍐🍐 has 7 pears.",
+        "🍐 has 1 pear.",
+        "Because 1 is smaller than 7, 🍐 is less."
+      ],
+      "difficulty": "Easy",
+      "skills_required": [
+        "Number Comparison",
+        "Logical Thinking"
+      ]
     }
 ]
+
 
 

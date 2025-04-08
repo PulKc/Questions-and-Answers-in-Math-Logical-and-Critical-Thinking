@@ -65,15 +65,6 @@ However, most questions and their step-by-step solutions are unique and unlikely
 - **Review:** Solely reviewed by the creator; external reviews are pending.
 - **Nature:** A living dataset, continually evolving.
 
-## Access Links
-
-| Platform                  | Link (to be updated upon availability) |
-|---------------------------|----------------------------------------|
-| **GitHub**                | [GitHub Repository](#)                 |
-| **Kaggle**                | [Kaggle Dataset](#)                    |
-| **Hugging Face**          | [Hugging Face Dataset](#)              |
-| **VenusMoon Official Website** | [VenusMoon Website](#)           |
-
 ## License
 
 The dataset is licensed under the **MIT License**, a permissive open-source license that allows users considerable freedom with minimal restrictions. Key points include:
