@@ -2,7 +2,7 @@
 
 ## Overview
 
-**QAMLC** is a **living, open-source dataset** designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It currently comprises **101 meticulously crafted questions**, each accompanied by **step-by-step solutions and verified answers**, primarily targeting learners up to the **Grade 6 level**. All content is presented in **English (UK)**.
+**QAMLC** is a **living, open-source dataset** designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It currently comprises **242 meticulously crafted questions**, each accompanied by **step-by-step solutions and verified answers**, primarily targeting learners up to the **Grade 6 level**. All content is presented in **English (UK)**.
 
 ## Key Features
 
@@ -12,7 +12,7 @@
   - Patterns & Sequences
   - Logical Reasoning
   - Critical Thinking
-  - Visual Reasoning (utilizing emojis)
+  - Visual Reasoning (utilising emojis)
 
 - **Step-by-Step Solutions:** Each question is paired with a detailed solution, ensuring clarity and comprehensive understanding.
 
@@ -56,12 +56,12 @@ However, most questions and their step-by-step solutions are unique and unlikely
 
 **Data Pre-processing:** Post-creation, the dataset underwent:
 
-- **Python-based pre-processing** to standardize formatting and structure.
+- **Python-based pre-processing** to standardise formatting and structure.
 - **Manual cleaning** to rectify any errors, ensuring the highest quality.
 
 **Current Status:**
 
-- **Size:** 101 Questions (with plans for expansion)
+- **Size:** 242 Questions (Adding continously)
 - **Review:** Solely reviewed by the creator; external reviews are pending.
 - **Nature:** A living dataset, continually evolving.
 
@@ -69,9 +69,9 @@ However, most questions and their step-by-step solutions are unique and unlikely
 
 | Platform                  | Link (to be updated upon availability) |
 |---------------------------|----------------------------------------|
-| **GitHub**                | [GitHub Repository](https://github.com/PulKc/Questions-and-Answers-in-Math-Logical-and-Critical-Thinking/)                 |
-| **Kaggle**                | [Kaggle Dataset](https://www.kaggle.com/datasets/pulkitsahu89/qamlc-dataset)                    |
-| **Hugging Face**          | [Hugging Face Dataset](https://www.huggingface.co/datasets/PulkitSahu/QAMLC)              |
+| **GitHub**                | [GitHub Repository](#)                 |
+| **Kaggle**                | [Kaggle Dataset](#)                    |
+| **Hugging Face**          | [Hugging Face Dataset](#)              |
 | **VenusMoon Official Website** | [VenusMoon Website](#)           |
 
 ## License
@@ -112,4 +112,4 @@ Upcoming enhancements include:
 - **Releasing the Python program** used for question generation to promote transparency and reproducibility.
 - **Facilitating easier access** through APIs or integration with NLP libraries.
 
-
+Thank You.
