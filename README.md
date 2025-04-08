@@ -2,7 +2,7 @@
 
 ## Overview
 
-**QAMLC** is a **living, open-source dataset** designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It currently comprises **443 meticulously crafted questions**, each accompanied by **step-by-step solutions and verified answers**, primarily targeting learners up to the **Grade 6 level**. All content is presented in **English (UK)**.
+**QAMLC** is a **living, open-source dataset** designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It currently comprises **944 meticulously crafted questions**, each accompanied by **step-by-step solutions and verified answers**, primarily targeting learners up to the **Grade 6 level**. All content is presented in **English (UK)**.
 
 ## Key Features
 
@@ -61,7 +61,7 @@ However, most questions and their step-by-step solutions are unique and unlikely
 
 **Current Status:**
 
-- **Size:** 443 Questions (Adding continously)
+- **Size:** 944 Questions (Adding continously)
 - **Review:** Solely reviewed by the creator; external reviews are pending.
 - **Nature:** A living dataset, continually evolving.
 

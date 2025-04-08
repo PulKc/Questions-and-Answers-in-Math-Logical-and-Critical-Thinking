@@ -28,8 +28,8 @@ dataset_info:
     dtype: string
   - name: skills_required
     sequence: string
-    num_examples: 443
-    download_size: ~ 200 kB
+    num_examples: 944
+    download_size: ~ 500 kB
 ---
 
 # Dataset Card for QAMLC
@@ -42,7 +42,7 @@ dataset_info:
 
 ### Dataset Summary
 
-**QAMLC (Questions and Answers in Mathematics, Logical and Critical Thinking)** is a living, open-source dataset designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It comprises 443 meticulously crafted questions, each accompanied by step-by-step solutions and verified answers, primarily targeting learners up to the Grade 6 level. The dataset uniquely incorporates emojis to represent shapes, promoting visual reasoning.
+**QAMLC (Questions and Answers in Mathematics, Logical and Critical Thinking)** is a living, open-source dataset designed to enhance mathematical reasoning, logical thinking, and critical analysis skills. It comprises 944 meticulously crafted questions, each accompanied by step-by-step solutions and verified answers, primarily targeting learners up to the Grade 6 level. The dataset uniquely incorporates emojis to represent shapes, promoting visual reasoning.
 
 ### Supported Tasks
 
