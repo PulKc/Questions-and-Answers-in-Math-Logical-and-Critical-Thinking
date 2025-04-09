@@ -1,6 +1,6 @@
 # 📁 QAMLC Dataset Structure
 
-The QAMLC dataset is organized in JSON format. Each entry represents a math, logical, or critical thinking question along with its metadata.
+The QAMLC dataset is organised in JSON format. Each entry represents a math, logical, or critical thinking question along with its metadata.
 
 ## Dataset Fields
 
