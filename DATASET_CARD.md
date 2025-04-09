@@ -15,7 +15,7 @@ licenses:
 dataset_info:
   features:
   - name: id
-    dtype: int32
+    dtype: int64
   - name: question
     dtype: string
   - name: type
@@ -29,7 +29,7 @@ dataset_info:
   - name: skills_required
     sequence: string
     num_examples: 944
-    download_size: ~ 500 kB
+    download_size: ~ 750 kB
 ---
 
 # Dataset Card for QAMLC
@@ -64,14 +64,14 @@ Each data instance includes:
   "type": "open-ended",
   "answer": "12",
   "solution": [
-    "Given that:",
+    "Given:",
     "2, 4, 6, 8, 10",
     "We need to find out the next number in this sequence:",
     "2, 4, 6, 8, 10",
-    "Let’s find out some patterns between 1 and 3.",
+    "Let us find out some patterns between 1 and 3.",
     "Adding 2 to 2 gives 4",
     "2 + 2 = 4",
-    "Now let's add 2 to 4",
+    "Now let us add 2 to 4",
     "2 + 4 = 6",
     "Similarly,",
     "2 + 6 = 8",
