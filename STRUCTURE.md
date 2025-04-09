@@ -30,7 +30,7 @@ The QAMLC dataset is organised in JSON format. Each entry represents a math, log
   "id": 3,
   "question": "Can you recognise a pattern in this sequence: 1, 2, 3, 5, 8, 13, 21, 34. Name this pattern and find the next sequence number.",
   "type": "open-ended",
-  "answer": "Virahānka numbers or Fibonacci sequence. 55",
+  "answer": "Virahānka numbers or Fibonacci sequence, 55",
   "solution": [
     "We are asked to recognise and name this sequence: 1, 2, 3, 5, 8, 13, 21, 34. Also, we need to find the next sequence number.",
     "Let’s try adding 1 to each item to get the next one.",
@@ -60,7 +60,7 @@ The QAMLC dataset is organised in JSON format. Each entry represents a math, log
   "id": 44,
   "question": "Group them in tens and ones. 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
   "type": "open-ended",
-  "answer": "Tens: 1, Ones: 1",
+  "answer": "1, 1",
   "solution": [
     "Let us count them from the left. On reaching a count of 10, we jot them as tens.",
     "Ten: 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢",
