@@ -9,7 +9,12 @@ The QAMLC dataset is organized in JSON format. Each entry represents a math, log
 | `id`              | Unique numeric identifier for each question                                                | `1`                                                            |
 | `question`        | The question text (supports basic text formatting)                                         | `"Identify the next number in this sequence: 2, 4, 6, 8, 10"`  |
 | `type`            | Type of question. Possible values: `"open-ended"`, `"true-false"`                          | `"open-ended"`                                                 |
-| `answer`          | Final answer in plain text                                                                 | `"12"`                                                         |
+| `answer`          | **String.** Final answer(s) to the question. If there are multiple answers, they are **comma-separated in the order they are asked.**        | `"answer": "6, 12"`                                                                                       |
+|                   | For **matching** type: item-count pairs are provided.                                                                                         | `"answer": "🍪🍪🍪🍪: 4, 🍔🍔🍔: 3"`                                                                        |
+|                   | For **comparative** or **more/less** type: the selected item group is the answer.                                                            | `"answer": "🍍🍍🍍🍍🍍🍍🍍🍍"`                                                                               |
+|                   | For **true-false** questions: a Boolean string.                                                                                               | `"answer": "True"`                                                                                        |
+|                   | For **fill-in-the-blanks** with values like tens and ones: responses are comma-separated.                                                    | `"answer": "9, 8"`                                                                                        |
+|                   | For **grouping by shape or category**: group-labels are followed by matched items.                                                           | `"answer": "Round shape: 😃😄🌝🍪🏀, Cylindrical: 🔋🛢️"`                                                    |                                                        |
 | `solution`        | A list of step-by-step solution explanations                                               | `["Step 1: Add 2", "Step 2: Result = 12"]`                      |
 | `difficulty`      | Difficulty level of the question. Possible values: `"Easy"`, `"Medium"`, `"Hard"`           | `"Easy"`                                                       |
 | `skills_required` | List of skills required to solve the question                                              | `["Math Reasoning", "Arithmetic"]`                             |
@@ -67,3 +72,5 @@ The QAMLC dataset is organized in JSON format. Each entry represents a math, log
     "Math Reasoning"
   ]
 }
+
+---
