@@ -19708,7 +19708,7 @@
     {
       "id": 944,
       "question": "Count and match correctly. Items: 🍏🍏🍏🍏, 🍪🍪🍪🍪🍪🍪🍪🍪, 🍩🍩🍩, 🥕🥕🥕🥕🥕🥕🥕 Numbers: 7, 3, 4, 8",
-      "type": "open-ended",
+      "type": "matching",
       "answer": "🍏🍏🍏🍏: 4, 🍪🍪🍪🍪🍪🍪🍪🍪: 8, 🍩🍩🍩: 3, 🥕🥕🥕🥕🥕🥕🥕: 7",
       "solution": [
         "Let us count the items.",
